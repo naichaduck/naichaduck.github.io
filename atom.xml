@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>奶茶鸭naichaDuck的博客</title>
+  
+  
+  <link href="https://naichaduck.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://naichaduck.github.io/"/>
+  <updated>2021-05-30T11:02:50.585Z</updated>
+  <id>https://naichaduck.github.io/</id>
+  
+  <author>
+    <name>奶茶鸭naichaDuck</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://naichaduck.github.io/hello-world/"/>
+    <id>https://naichaduck.github.io/hello-world/</id>
+    <published>2021-05-30T11:02:50.585Z</published>
+    <updated>2021-05-30T11:02:50.585Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fas fa-external-link-alt"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fas fa-external-link-alt"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fas fa-external-link-alt"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a class=&quot;link&quot;   href=&quot;https://hexo.io/&quot; &gt;Hexo&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;! This is your very first post. Che</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MARKDOWN能否胜任论文写作？</title>
+    <link href="https://naichaduck.github.io/T%20MARKDOWN%E8%83%BD%E5%90%A6%E8%83%9C%E4%BB%BB%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%EF%BC%9F/"/>
+    <id>https://naichaduck.github.io/T%20MARKDOWN%E8%83%BD%E5%90%A6%E8%83%9C%E4%BB%BB%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%EF%BC%9F/</id>
+    <published>2021-04-29T15:20:45.000Z</published>
+    <updated>2021-04-29T15:20:45.369Z</updated>
+    
+    
+    
+    
+    <category term="日记 diary 技术 skill 思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%97%A5%E8%AE%B0-diary-%E6%8A%80%E6%9C%AF-skill-%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="记录 log" scheme="https://naichaduck.github.io/tags/%E8%AE%B0%E5%BD%95-log/"/>
+    
+    <category term="博客 blogging" scheme="https://naichaduck.github.io/tags/%E5%8D%9A%E5%AE%A2-blogging/"/>
+    
+    <category term="书籍 book" scheme="https://naichaduck.github.io/tags/%E4%B9%A6%E7%B1%8D-book/"/>
+    
+    <category term="电影 film" scheme="https://naichaduck.github.io/tags/%E7%94%B5%E5%BD%B1-film/"/>
+    
+    <category term="习惯 Habit" scheme="https://naichaduck.github.io/tags/%E4%B9%A0%E6%83%AF-Habit/"/>
+    
+    <category term="重新做人 Be A Man" scheme="https://naichaduck.github.io/tags/%E9%87%8D%E6%96%B0%E5%81%9A%E4%BA%BA-Be-A-Man/"/>
+    
+    <category term="女人 Woman" scheme="https://naichaduck.github.io/tags/%E5%A5%B3%E4%BA%BA-Woman/"/>
+    
+    <category term="旅游 Travel" scheme="https://naichaduck.github.io/tags/%E6%97%85%E6%B8%B8-Travel/"/>
+    
+    <category term="健身 workout" scheme="https://naichaduck.github.io/tags/%E5%81%A5%E8%BA%AB-workout/"/>
+    
+    <category term="极简主义 minimalism" scheme="https://naichaduck.github.io/tags/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89-minimalism/"/>
+    
+    <category term="睡眠 sleep" scheme="https://naichaduck.github.io/tags/%E7%9D%A1%E7%9C%A0-sleep/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我们为什么应该当废物</title>
+    <link href="https://naichaduck.github.io/T%20%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BA%94%E8%AF%A5%E5%BD%93%E5%BA%9F%E7%89%A9/"/>
+    <id>https://naichaduck.github.io/T%20%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BA%94%E8%AF%A5%E5%BD%93%E5%BA%9F%E7%89%A9/</id>
+    <published>2021-04-29T10:34:15.000Z</published>
+    <updated>2021-04-29T10:34:15.115Z</updated>
+    
+    
+    
+    
+    <category term="日记 diary 技术 skill 思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%97%A5%E8%AE%B0-diary-%E6%8A%80%E6%9C%AF-skill-%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="记录 log" scheme="https://naichaduck.github.io/tags/%E8%AE%B0%E5%BD%95-log/"/>
+    
+    <category term="博客 blogging" scheme="https://naichaduck.github.io/tags/%E5%8D%9A%E5%AE%A2-blogging/"/>
+    
+    <category term="书籍 book" scheme="https://naichaduck.github.io/tags/%E4%B9%A6%E7%B1%8D-book/"/>
+    
+    <category term="电影 film" scheme="https://naichaduck.github.io/tags/%E7%94%B5%E5%BD%B1-film/"/>
+    
+    <category term="习惯 Habit" scheme="https://naichaduck.github.io/tags/%E4%B9%A0%E6%83%AF-Habit/"/>
+    
+    <category term="重新做人 Be A Man" scheme="https://naichaduck.github.io/tags/%E9%87%8D%E6%96%B0%E5%81%9A%E4%BA%BA-Be-A-Man/"/>
+    
+    <category term="女人 Woman" scheme="https://naichaduck.github.io/tags/%E5%A5%B3%E4%BA%BA-Woman/"/>
+    
+    <category term="旅游 Travel" scheme="https://naichaduck.github.io/tags/%E6%97%85%E6%B8%B8-Travel/"/>
+    
+    <category term="健身 workout" scheme="https://naichaduck.github.io/tags/%E5%81%A5%E8%BA%AB-workout/"/>
+    
+    <category term="极简主义 minimalism" scheme="https://naichaduck.github.io/tags/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89-minimalism/"/>
+    
+    <category term="睡眠 sleep" scheme="https://naichaduck.github.io/tags/%E7%9D%A1%E7%9C%A0-sleep/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我讨厌辩论</title>
+    <link href="https://naichaduck.github.io/T%20%E6%88%91%E8%AE%A8%E5%8E%8C%E8%BE%A9%E8%AE%BA/"/>
+    <id>https://naichaduck.github.io/T%20%E6%88%91%E8%AE%A8%E5%8E%8C%E8%BE%A9%E8%AE%BA/</id>
+    <published>2021-04-15T20:27:11.000Z</published>
+    <updated>2021-04-15T20:27:11.131Z</updated>
+    
+    
+    
+    
+    <category term="日记 diary 技术 skill 思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%97%A5%E8%AE%B0-diary-%E6%8A%80%E6%9C%AF-skill-%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="记录 log" scheme="https://naichaduck.github.io/tags/%E8%AE%B0%E5%BD%95-log/"/>
+    
+    <category term="博客 blogging" scheme="https://naichaduck.github.io/tags/%E5%8D%9A%E5%AE%A2-blogging/"/>
+    
+    <category term="书籍 book" scheme="https://naichaduck.github.io/tags/%E4%B9%A6%E7%B1%8D-book/"/>
+    
+    <category term="电影 film" scheme="https://naichaduck.github.io/tags/%E7%94%B5%E5%BD%B1-film/"/>
+    
+    <category term="习惯 Habit" scheme="https://naichaduck.github.io/tags/%E4%B9%A0%E6%83%AF-Habit/"/>
+    
+    <category term="重新做人 Be A Man" scheme="https://naichaduck.github.io/tags/%E9%87%8D%E6%96%B0%E5%81%9A%E4%BA%BA-Be-A-Man/"/>
+    
+    <category term="女人 Woman" scheme="https://naichaduck.github.io/tags/%E5%A5%B3%E4%BA%BA-Woman/"/>
+    
+    <category term="旅游 Travel" scheme="https://naichaduck.github.io/tags/%E6%97%85%E6%B8%B8-Travel/"/>
+    
+    <category term="健身 workout" scheme="https://naichaduck.github.io/tags/%E5%81%A5%E8%BA%AB-workout/"/>
+    
+    <category term="极简主义 minimalism" scheme="https://naichaduck.github.io/tags/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89-minimalism/"/>
+    
+    <category term="睡眠 sleep" scheme="https://naichaduck.github.io/tags/%E7%9D%A1%E7%9C%A0-sleep/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何保持身体健康？</title>
+    <link href="https://naichaduck.github.io/T%20%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81%E8%BA%AB%E4%BD%93%E5%81%A5%E5%BA%B7%EF%BC%9F/"/>
+    <id>https://naichaduck.github.io/T%20%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81%E8%BA%AB%E4%BD%93%E5%81%A5%E5%BA%B7%EF%BC%9F/</id>
+    <published>2021-04-07T22:53:33.000Z</published>
+    <updated>2021-04-07T23:03:19.413Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="如何保持身体健康"><a href="#如何保持身体健康" class="headerlink" title="如何保持身体健康"></a>如何保持身体健康</h2><ul><li>健身</li><li>口腔卫生</li><li>洗澡</li><li>饮食</li></ul><h4 id="时不时裸体做事"><a href="#时不时裸体做事" class="headerlink" title="时不时裸体做事"></a>时不时裸体做事</h4><p>周末在家没人的时候就裸体吧！这种直接的刺激会让你非常直观的意识到身体的重要性。当然这个观点可能只对单身的人有价值。拥有性生活的人可能反而觉得身体美丑都无所谓了。（“反正都日的到”）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;如何保持身体健康&quot;&gt;&lt;a href=&quot;#如何保持身体健康&quot; class=&quot;headerlink&quot; title=&quot;如何保持身体健康&quot;&gt;&lt;/a&gt;如何保持身体健康&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;健身&lt;/li&gt;
+&lt;li&gt;口腔卫生&lt;/li&gt;
+&lt;li&gt;洗澡&lt;/li&gt;
+&lt;li&gt;饮食</summary>
+      
+    
+    
+    
+    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="记录 log" scheme="https://naichaduck.github.io/tags/%E8%AE%B0%E5%BD%95-log/"/>
+    
+    <category term="习惯 Habit" scheme="https://naichaduck.github.io/tags/%E4%B9%A0%E6%83%AF-Habit/"/>
+    
+    <category term="重新做人 Be A Man" scheme="https://naichaduck.github.io/tags/%E9%87%8D%E6%96%B0%E5%81%9A%E4%BA%BA-Be-A-Man/"/>
+    
+    <category term="健身 workout" scheme="https://naichaduck.github.io/tags/%E5%81%A5%E8%BA%AB-workout/"/>
+    
+    <category term="睡眠 sleep" scheme="https://naichaduck.github.io/tags/%E7%9D%A1%E7%9C%A0-sleep/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不要把自己的博客当成日记本</title>
+    <link href="https://naichaduck.github.io/T%20%E7%AA%81%E7%84%B6%E9%97%B4%E5%81%9C%E4%B8%8B%E7%9A%84%E8%84%9A%E6%AD%A5/"/>
+    <id>https://naichaduck.github.io/T%20%E7%AA%81%E7%84%B6%E9%97%B4%E5%81%9C%E4%B8%8B%E7%9A%84%E8%84%9A%E6%AD%A5/</id>
+    <published>2021-03-31T23:12:15.000Z</published>
+    <updated>2021-04-11T01:06:39.390Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="突然停下的脚步"><a href="#突然停下的脚步" class="headerlink" title="突然停下的脚步"></a>突然停下的脚步</h2><h3 id="数据脱敏的重要性——被前女友臭骂一顿的我，再次意识到隐私的重要性"><a href="#数据脱敏的重要性——被前女友臭骂一顿的我，再次意识到隐私的重要性" class="headerlink" title="数据脱敏的重要性——被前女友臭骂一顿的我，再次意识到隐私的重要性"></a>数据脱敏的重要性——被前女友臭骂一顿的我，再次意识到隐私的重要性</h3><p>数年前我曾经折腾过一次GithubPages用来做博客，当时折腾完了是一篇文章没写也就晾在一边了。在去年（2020）的4月，我开始重新折腾起博客来，在4月30号的时候，我基本折腾差不多了，开始盘算着写文章。</p><p>经过一段适应期，我把博客定位成了一个日记本，开始把每天的事情记录上去。因为是匿名状态，我渐渐的开始肆无忌惮，各种涉及到隐私的信息开始暴露出来。我甚至把自己的撸管次数和当时所用的配菜也记录下来。</p><p>到了年底，我写了一篇酝酿很久的年终总结，总结了我相当操蛋的一年，文笔大发当时写的十分舒爽。舒爽了自然是要分享给人看的，人就是有一种分享欲。于是我犯了一个大错误：把这篇相当赞的文章发布到了QQ空间和微信朋友圈。反响还是可以的，我掏心掏肺的写作手法大受好评。当时本身我也是豁出去的心态去分享的，因为一整年过的真的很操蛋，就想着将错就错，逼出一个新的自己。</p><p>事件发生的很突然，我查看消息的时候突然发现有一篇言辞激烈的邮件在QQ邮箱里呆着。点开来看以后，发现是前女友看了我的博客，臭骂了我一顿。满腔的尖酸刻薄透过屏幕泼到了我的身上。我赶紧停掉了博客杜绝后患。</p><p>经过后来的跟踪调查，契机应该是我在一个共有群里说了话，前女友想要DEJAVU一下于是偷偷用我忘了删的小号想看看我现在过得怎样。结果点开了空间打开了网站，气由心生，写了恶毒的骚话骂我。小号我时隔半个月才发现，赶紧删掉了彻底杜绝后患。</p><p>这次事件暴露了我的很多问题，于是我就暂停了写日记。之后又想继续写的时候重开了一遍网站，给每个日记开始加上密码。</p><p>加上密码以后我自己进行了测试，看看自己能不能破解密码，发现原来只要顺着网页找到GITHUB仓库打开就能够直接查看网页源代码（看到日记内容）绕过密码验证了。遂放弃更新日记，撤回了所有日记内容，独留一个空壳博客。</p><hr><p>补充：</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/114288802-8dbf3600-9a72-11eb-8f89-16e178a90a68.jpg"                      alt="邪不压正HD国语中字 mkv_20210411_025732 210"                ></p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/114288803-9879cb00-9a72-11eb-98e6-c99fc7a21d4d.jpg"                      alt="邪不压正HD国语中字 mkv_20210411_025734 163"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/114288804-99126180-9a72-11eb-8536-9d1994a09546.jpg"                      alt="邪不压正HD国语中字 mkv_20210411_025734 789"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/114288805-99aaf800-9a72-11eb-835d-4b7a724badb6.jpg"                      alt="邪不压正HD国语中字 mkv_20210411_025735 412"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/114288806-9b74bb80-9a72-11eb-9c2b-fcfa0f9d506e.jpg"                      alt="邪不压正HD国语中字 mkv_20210411_025735 703"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/114288807-9b74bb80-9a72-11eb-8ade-9badc46badbf.jpg"                      alt="邪不压正HD国语中字 mkv_20210411_025736 620"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/114288808-9ca5e880-9a72-11eb-8fe8-0f539bbd7724.jpg"                      alt="邪不压正HD国语中字 mkv_20210411_025738 080"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/114288809-9dd71580-9a72-11eb-810a-022b3edb92e8.jpg"                      alt="邪不压正HD国语中字 mkv_20210411_025739 495"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/114288811-9e6fac00-9a72-11eb-8568-07e5cb0f8f25.jpg"                      alt="邪不压正HD国语中字 mkv_20210411_025741 413"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/114288812-9f084280-9a72-11eb-9ffa-0c1fac86bac7.jpg"                      alt="邪不压正HD国语中字 mkv_20210411_025742 120"                ></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;突然停下的脚步&quot;&gt;&lt;a href=&quot;#突然停下的脚步&quot; class=&quot;headerlink&quot; title=&quot;突然停下的脚步&quot;&gt;&lt;/a&gt;突然停下的脚步&lt;/h2&gt;&lt;h3 id=&quot;数据脱敏的重要性——被前女友臭骂一顿的我，再次意识到隐私的重要性&quot;&gt;&lt;a href=&quot;#数</summary>
+      
+    
+    
+    
+    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="记录 log" scheme="https://naichaduck.github.io/tags/%E8%AE%B0%E5%BD%95-log/"/>
+    
+    <category term="博客 blogging" scheme="https://naichaduck.github.io/tags/%E5%8D%9A%E5%AE%A2-blogging/"/>
+    
+    <category term="习惯 Habit" scheme="https://naichaduck.github.io/tags/%E4%B9%A0%E6%83%AF-Habit/"/>
+    
+    <category term="隐私 Privacy" scheme="https://naichaduck.github.io/tags/%E9%9A%90%E7%A7%81-Privacy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>健身前和健身后要做的事情</title>
+    <link href="https://naichaduck.github.io/T%20%E5%81%A5%E8%BA%AB%E5%89%8D%E5%92%8C%E5%81%A5%E8%BA%AB%E5%90%8E%E8%A6%81%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85/"/>
+    <id>https://naichaduck.github.io/T%20%E5%81%A5%E8%BA%AB%E5%89%8D%E5%92%8C%E5%81%A5%E8%BA%AB%E5%90%8E%E8%A6%81%E5%81%9A%E7%9A%84%E4%BA%8B%E6%83%85/</id>
+    <published>2021-03-26T23:00:03.000Z</published>
+    <updated>2021-03-26T23:10:51.837Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="健身前和健身后要做的事"><a href="#健身前和健身后要做的事" class="headerlink" title="健身前和健身后要做的事"></a>健身前和健身后要做的事</h3><p>健身前后一定要做的事就是热身和拉伸。年轻的时候可能发现不了这两个习惯的好处，但是随着年龄增大，体质下降，这两项习惯会带来巨大优势。</p><h4 id="热身运动"><a href="#热身运动" class="headerlink" title="热身运动"></a>热身运动</h4><p>如果不进行热身运动就直接开始做俯卧撑，你可能会觉得手臂用不上力，并且做不了几<br>个就已经不行了。这种情况在天气较冷的情况下更为明显，这是因为我们的肌肉处于半休眠<br>状态。改变这种状况就需要进行热身运动，让肌肉中的血液更快地流动起来。所以，在你开<br>始做俯卧撑之前，先学习一些热身技巧，这将事倍功半。<br>俯卧撑主要运动的是上半身，所以在你进行训练之前，应该做足上半身的热身。当然，<br>热身运动不必要花很长时间，通常10 分钟就足够了，如果天气比较寒冷，可能需要更多的<br>时间来进行热身。</p><p>颈部：</p><ol><li>左右拉伸颈部。将颈部向左右肩膀靠近，尽量拉伸颈部侧面和肩膀肌肉。</li><li>向前拉伸颈部。尽量用下巴去靠近胸口，拉伸颈部后面的肌肉。</li><li>左右转动颈部。</li><li>顺时针和逆时针转动颈部。使得整个颈部活动。</li></ol><p>肩膀：</p><ol><li>向上提肩。尽量用肩膀去靠近自己的耳朵。重复3到5次。</li></ol><p>躯干：</p><ol><li>左右转动。活动自己的腰部以及上身。持续1分钟。</li><li>左右拉伸。拉伸腰部和腹部肌肉。</li></ol><p>手臂：</p><ol><li>拉伸手臂。重复8次。</li><li>前后转动手臂。让肩膀关节充分活动。重复8次。</li></ol><p>  最后： 原地小跑。持续2分钟，让全身的温度升高。<br>  花10分钟充分热身，接下来就可以进行俯卧撑计划了。记住，每次开始之前都必须进行热身运动。这样能够提高训练效果，并且能够减少关节的磨损，预防肌肉受伤。</p><h4 id="拉伸运动"><a href="#拉伸运动" class="headerlink" title="拉伸运动"></a>拉伸运动</h4><p>在我们进行训练之前要做准备活动来热身，特别是天气较冷的情况下，一定要做足准备活动。当我们的血液循环加快的时候，我们的关节，肌肉会比平时的具有更好的扩展性，这样能够防止我们在运动中受伤。当我们完成一天的训练之后，也一定要进行拉伸运动，让我们的关节和肌肉都得到放松和伸展。 记住，训练之前要热身，训练之后要拉伸。很多人忽略的这一点，所以总有人在训练的时候受伤或者训练之后肌肉过分疲惫。下面来看看我们训练之后应该进行的拉伸练习。 </p><ol><li><p>颈部拉伸<br>站立，左右弯曲颈部，尽量用耳朵靠近肩膀，同时可以用手来轻轻辅助，每一边坚持15秒。 </p></li><li><p>胸部拉伸<br>双手在身后扣住，用力挺胸，坚持15秒。</p></li><li><p>肩膀拉伸<br>左右手臂交叉拉伸，坚持15秒。 </p></li><li><p>背部拉伸<br>双手交叉，手背向内，用力向外伸直，坚持15秒。</p></li><li><p>腹部拉伸<br>俯卧在垫子上，用力抬起身体，感觉腹部被牵拉，坚持30秒.</p></li><li><p>三头肌拉伸<br>三头肌是俯卧撑运动中的重要部位，需要多做一些拉伸运动，将手臂置于颈后，另一只手抓住手腕并且向内拉伸。每边15秒。</p></li></ol><p>做完这些拉伸运动，你就可以返回你的日常生活了，记住，俯卧撑是力量训练和耐力训练的结合，一定要在训练之后进行拉伸运动。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;健身前和健身后要做的事&quot;&gt;&lt;a href=&quot;#健身前和健身后要做的事&quot; class=&quot;headerlink&quot; title=&quot;健身前和健身后要做的事&quot;&gt;&lt;/a&gt;健身前和健身后要做的事&lt;/h3&gt;&lt;p&gt;健身前后一定要做的事就是热身和拉伸。年轻的时候可能发现不了这两个习惯</summary>
+      
+    
+    
+    
+    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="习惯 Habit" scheme="https://naichaduck.github.io/tags/%E4%B9%A0%E6%83%AF-Habit/"/>
+    
+    <category term="健身 workout" scheme="https://naichaduck.github.io/tags/%E5%81%A5%E8%BA%AB-workout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>食几几个食谱</title>
+    <link href="https://naichaduck.github.io/T%20%E5%87%A0%E4%B8%AA%E9%A3%9F%E8%B0%B1/"/>
+    <id>https://naichaduck.github.io/T%20%E5%87%A0%E4%B8%AA%E9%A3%9F%E8%B0%B1/</id>
+    <published>2021-03-18T02:55:18.000Z</published>
+    <updated>2021-03-18T02:57:28.914Z</updated>
+    
+    <content type="html"><![CDATA[<p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/111566210-0f39e600-879d-11eb-8de9-ba7b7d7bf2a4.jpg"                      alt="IMG_20210318_030246"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/111566254-1f51c580-879d-11eb-9131-8a70de0cdae3.jpg"                      alt="IMG_20210318_030141"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/111566279-2b3d8780-879d-11eb-8e72-1d349171b747.jpg"                      alt="IMG_20210318_025810"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/111566317-398ba380-879d-11eb-9b90-f3472185ed2a.jpg"                      alt="IMG_20210318_025519"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/111566329-3f818480-879d-11eb-82b5-40900f0254bd.jpg"                      alt="IMG_20210318_025429"                ></p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/111566370-51fbbe00-879d-11eb-83bd-8f26c8ad68f0.jpg"                      alt="Screenshot_2021-03-18-02-51-55-881_com xiachufang"                ></p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/111566398-617b0700-879d-11eb-900c-e918b70a0e7b.jpg"                      alt="Screenshot_2021-03-18-02-58-18-122_com xiachufang"                ></p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/111566604-c20a4400-879d-11eb-8a17-5c5d68697e54.jpg"                      alt="蜂蜜浏览器_Screenshot_2021-03-18-02-51-24-313_com xiachufang"                ><br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/111566607-c33b7100-879d-11eb-946a-5dec9628feb6.jpg"                      alt="蜂蜜浏览器_Screenshot_2021-03-18-02-55-49-320_com xiachufang"                ></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img  
+                     lazyload
+                     src=&quot;/images/loading.svg&quot;
+                     data-src=&quot;https://user-images.gi</summary>
+      
+    
+    
+    
+    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="记录 log" scheme="https://naichaduck.github.io/tags/%E8%AE%B0%E5%BD%95-log/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>单反摄影作品的锐化问题</title>
+    <link href="https://naichaduck.github.io/S%20%E5%8D%95%E5%8F%8D%E4%BD%9C%E5%93%81%E7%9A%84%E9%94%90%E5%8C%96%E9%97%AE%E9%A2%98/"/>
+    <id>https://naichaduck.github.io/S%20%E5%8D%95%E5%8F%8D%E4%BD%9C%E5%93%81%E7%9A%84%E9%94%90%E5%8C%96%E9%97%AE%E9%A2%98/</id>
+    <published>2021-01-04T21:49:27.000Z</published>
+    <updated>2021-03-31T23:05:10.025Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="转载的文章-自用"><a href="#转载的文章-自用" class="headerlink" title="转载的文章 自用"></a>转载的文章 自用</h3><p>常见的锐化方法，都是在处理照片的最后一步，用USM、智能锐化等工具，对照片一次性锐化。</p><p>这样的锐化方式虽然方便，但却不够精细。今天分享的三步锐化法（Multipass Sharpening），是一种更加优异的后期锐化流程。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic3.zhimg.com/v2-0a2a0bb825a4d566a21f294d7ffdaf2e_r.jpg"                      alt="img"                ></p><p><em>作者：托马斯，<a class="link"   href="https://link.zhihu.com/?target=http://thomaskksj.tuchong.com" >http://thomaskksj.tuchong.com<i class="fas fa-external-link-alt"></i></a></em></p><p>或许你会疑问，明明一步可以完成的事情，为什么还要麻烦的分为三步呢？这是因为三步锐化法的每一步，都对应了各自不同的目的。</p><p><strong>三步锐化的第一步是基础锐化（Capture Sharpening）。</strong>由于单反相机的芯片特点、镜头特性、以及低通滤镜等装置，数码照片天然的就会发软。基础锐化的目的就是去掉这种数码照片发软的情况。如果你是使用JPEG拍摄，相机一般自动就会进行这步锐化。而大部分人都是使用raw格式拍摄，因此后期的基础锐化，是每张照片都必不可少的一步。</p><p><strong>三步锐化的第二步是效果锐化（Creative Sharpening）。</strong>效果锐化又叫创意锐化，其目的是通过锐化技术，强化画面中前景、主体、人物眼睛等重要细节，或者突出岩石、建筑、树木等的特殊纹理。效果锐化是一种艺术化的局部锐化，只适用于特定场景中的某些景物。</p><p><strong>三步锐化的第三步是输出锐化（Output Sharpening）。</strong>顾名思义，输出锐化是为了最终的展示图像。我们可能需要输出不同尺寸的图像，而在图像缩小和放大的运算过程中，画面会损失一些锐度，所以输出时需要再次锐化。与此同时，不同的输出媒介，比如网络浏览和打印展示，甚至不同的印纸材质、读者的观看距离，都会影响需要锐化程度的大小。因此输出锐化的数值和方法，需要根据不同的目的决定。一张作品级的照片，可能需要多个输出锐化的版本，用于朋友圈、论坛、图库、打印等不同展示方式。</p><p>接下来我会以封面图片为例，展示三步锐化法的操作流程。</p><h2 id="基础锐化"><a href="#基础锐化" class="headerlink" title="基础锐化"></a><strong>基础锐化</strong></h2><p>基础锐化是每张照片都必不可少的一步，一般在ACR以及Lightroom中的细节面板中进行。</p><p>在ACR中，默认的锐化参数是 数量25，半径1，细节25，蒙版0。这个默认参数适用于很多照片，但对于物体细节较多，有大量纯净区域或者ISO较高的情况，我们需要进一步的调整锐化的参数。（关于锐化面板如何使用，详见教程《<a class="link"   href="https://link.zhihu.com/?target=http://www.weibo.com/ttarticle/p/show?id=2309404021150685468272" >你真的理解锐化了吗？<i class="fas fa-external-link-alt"></i></a>》）</p><p>这张照片，我把半径降低到0.8，细节加强到80，这样有更多的细节会被锐化、但其强度有所降低。同时这张照片水面天空较多，又是使用高ISO手持拍摄，所以蒙版提高到45，保证不会锐化到纯色区域的噪点。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic2.zhimg.com/v2-69b146462e2611c722014c563492b2a9_r.jpg"                      alt="img"                ></p><p>由于后面还有2步锐化，所以基础锐化时讲究宁欠勿过。锐化时放大到200%，宁愿少一些强度，也不要出现白边或者大量噪点。下图是基础锐化前，照片比较软。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic1.zhimg.com/v2-d5ca590e20a05ad2045c78dad22a3168_r.jpg"                      alt="img"                ></p><p>基础锐化后，物体边缘更加清晰。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic1.zhimg.com/v2-53912378c3cfed79ed6cc390f998a7b4_r.jpg"                      alt="img"                ></p><h2 id="效果锐化"><a href="#效果锐化" class="headerlink" title="效果锐化"></a><strong>效果锐化</strong></h2><p>本片中既有柔软的水面天空云层，又有细节丰富的现代建筑。因此第二步效果锐化的目的，就是突出这些摩天大楼的金属玻璃外表面的质感和细节。同时不同的清晰程度，也让这些大楼与水面天空分离开来，使画面更有层次。</p><p>效果锐化，一般在所有像素和对比度调整完成之后，或者干脆全部调整完成之后。这步锐化的方法丰富多样，包括智能锐化、LAB锐化、高反差保留、差值计算锐化、Nik Output Shanpener等等。</p><p>本图使用高反差保留锐化为例。</p><p>在降噪和对比度调整完成之后，我使用键盘上的Ctrl+Alt+Shift+E键，盖印所有图层，并命名为“锐化”。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic3.zhimg.com/v2-36ed5a340f38b99fcc17ca1d6ea0b6ee_r.jpg"                      alt="img"                ></p><p>接着我打开“滤镜 - 其他 - 高反差保留”。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic4.zhimg.com/v2-74883fddaf679e3fa125a9bb6e3783eb_r.jpg"                      alt="img"                ></p><p>高反差保留的半径，根据图片大小，和需要锐化的物体而不同，一般设置为1.5-4，这里选择2。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic2.zhimg.com/v2-2ebd1c472c6cda1b2bb6099d0ac9d76d_r.jpg"                      alt="img"                ></p><p>高反差保留之后，可以看到图层几乎变成了一片中灰色，只有反差大的边缘区域保留了下来。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic1.zhimg.com/v2-a3fcc07688be76f43d81ab11cd69dbd0_r.jpg"                      alt="img"                ></p><p>为了让等会的锐化效果，不带来额外的杂色。需要选择“图像 - 调整 - 去色”，去掉高反差保留图层的颜色。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic4.zhimg.com/v2-2c2536ee9b128900c11569fdaf221b97_r.jpg"                      alt="img"                ></p><p>这样锐化效果只会使边缘锐度增强，而不会带来颜色变化。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic1.zhimg.com/v2-a3fcc07688be76f43d81ab11cd69dbd0_r.jpg"                      alt="img"                ></p><p>把高反差保留图层混合模式改成“叠加”。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic4.zhimg.com/v2-40a63e3df438e9c7de58800ff0f77dd3_r.jpg"                      alt="img"                ></p><p>此时高反差保留图层中的中灰色全部变成透明，只有边缘区域叠加在了下面的图层上，起到了锐化的效果。如果觉得锐化强度太大，可以降低高反差保留图层的不透明度，比如本图降到了70%。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic1.zhimg.com/v2-c0acc2d9776c1f085b6e6032febfc4a8_r.jpg"                      alt="img"                ></p><p>关键一步，添加图层蒙版，并用黑色笔刷刷出天空和水面部分，让锐化完全不作用在这些纯净没有细节的地方。用灰色笔刷刷出远处的矮小建筑，使他们锐化强度不如近处的摩天大楼，制造空间层次感。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic2.zhimg.com/v2-d535b254fb15439f43297a9419caa489_r.jpg"                      alt="img"                ></p><p>再来看看效果锐化之前。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic3.zhimg.com/v2-a59f8a351e190f78ad6dc762cb2684ca_r.jpg"                      alt="img"                ></p><p>效果锐化之后，高楼大厦的细节更加突出了，金属玻璃质感显著。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic1.zhimg.com/v2-3290e85ea21cd0fa4a144b00c6ef50e0_r.jpg"                      alt="img"                ></p><p>之后再进行一些调色（主要是去除画面中的红紫绿等杂色，只留下黄蓝对比色），这张照片后期处理就完成了，只需要最后输出锐化和导出了。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic3.zhimg.com/v2-5031533fc60a84c69a6041c214293c72_r.jpg"                      alt="img"                ></p><h2 id="输出锐化"><a href="#输出锐化" class="headerlink" title="输出锐化"></a><strong>输出锐化</strong></h2><p>导出之前先要改变图像的大小，最好在新建的文件上进行（这样原来的调整都是保存在原图大小的PSD、TIFF文件中，方便以后重新处理和输出其他大小）。</p><p>Ctrl+Alt+Shift+E键，合并盖印所有图层。对这个盖印图层，鼠标右键选择“复制图层”。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic1.zhimg.com/v2-7080726c8623ef3611a644fbfcac9ce8_r.jpg"                      alt="img"                ></p><p>复制图层面板中，目标文档一定要选择“新建”，这样会新建一个文档。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic1.zhimg.com/v2-0f4df713550d288dd74cc192de61cc40_r.jpg"                      alt="img"                ></p><p>这样盖印图层就复制到了一个新文件中，在新文件中选择“图像-图像大小”，打开大小控制面板。选择输出照片的宽度，一般在网上分享的照片，我习惯使用2000px的长边，所以这里宽度我输入2000像素。重新采样的算法，我习惯使用“两次立方（平滑渐变）”。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic1.zhimg.com/v2-5507a2cb667def37be8dd5fafa424a5c_r.jpg"                      alt="img"                ></p><p>图像缩小之后，明显锐度大减，因此需要进行输出锐化。可以使用方便强大的Nik输出锐化插件。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic1.zhimg.com/v2-a28be348b0679fa28128e2e8a254f1e4_r.jpg"                      alt="img"                ></p><p>如果你还没有安装Nik插件，可以在我公众号thomaskksj后台回复关键词“下载”获得链接，下载这个强大的后期插件。安装完成之后，我们就可以在“滤镜 - Nik Collection - Sharpener Pro 3：（2）Output Sharpener” 那找到Nik的输出锐化插件。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic3.zhimg.com/v2-ce1aedadc9186407e8f527f40c48e95e_r.jpg"                      alt="img"                ></p><p>打开插件，可以看到右侧有一个“输出锐化面板”。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic4.zhimg.com/v2-eea5a343bc7a38bbaee67b92eadd11a7_r.jpg"                      alt="img"                ></p><p>第一个是输出材质选项，匹配有不同的打印显示设备，一般显示器展示的照片。我们可以选择“显示”。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic1.zhimg.com/v2-510f3d6205125ccf3a839f04fd3b4ccc_r.jpg"                      alt="img"                ></p><p>“自适应锐化”滑块，控制了输出锐化的强度。默认的50%一般都太大，可以降低到15%-35%，这张图30%左右不错。点击确定，Nik会完成锐化并新建一个锐化图层，如果我们觉得有些地方锐化过度，可以使用图层不透明度和图层蒙板，进一步的修改。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic3.zhimg.com/v2-794f2e74b136e7a323505b66cd647826_r.jpg"                      alt="img"                ></p><p>最后比较一下，输出锐化之前，缩图算法导致锐度降低。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic4.zhimg.com/v2-b05d137eb431b8b608bf88e0dff9f07f_r.jpg"                      alt="img"                ></p><p>输出锐化之后，照片锐利清晰，适合网络展示。接着就可以导出JPEG格式照片，发表在网络上了。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic4.zhimg.com/v2-0fa89c48ab4d6abf2447ea084302b1c3_r.jpg"                      alt="img"                ></p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a><strong>总结</strong></h2><p><em><strong>*1. 单次锐化比较简单，但其精度更适用于旅游照片。三步锐化法虽然稍显复杂，但其精细程度更符合摄影爱好者的作品创作需要。*</strong></em></p><p><em><strong>*2. 基础锐化一般使用ACR中的细节面板，目的是消除数码照片的偏软感觉，强度不宜过大。*</strong></em></p><p><em><strong>*3. 效果锐化的工具和技术多种多样，核心是配合蒙版，对画面中细节质感距离感更好的物体局部强化。*</strong></em></p><p><em><strong>*4. 输出锐化可以使用Nik插件，在缩图后进行。*</strong></em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;转载的文章-自用&quot;&gt;&lt;a href=&quot;#转载的文章-自用&quot; class=&quot;headerlink&quot; title=&quot;转载的文章 自用&quot;&gt;&lt;/a&gt;转载的文章 自用&lt;/h3&gt;&lt;p&gt;常见的锐化方法，都是在处理照片的最后一步，用USM、智能锐化等工具，对照片一次性锐化。&lt;/p</summary>
+      
+    
+    
+    
+    <category term="技术 skill" scheme="https://naichaduck.github.io/categories/%E6%8A%80%E6%9C%AF-skill/"/>
+    
+    
+    <category term="存档" scheme="https://naichaduck.github.io/tags/%E5%AD%98%E6%A1%A3/"/>
+    
+    <category term="摄影" scheme="https://naichaduck.github.io/tags/%E6%91%84%E5%BD%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>平常冒出来的思考</title>
+    <link href="https://naichaduck.github.io/T%20%E5%B9%B3%E5%B8%B8%E5%86%92%E5%87%BA%E6%9D%A5%E7%9A%84%E6%80%9D%E8%80%83/"/>
+    <id>https://naichaduck.github.io/T%20%E5%B9%B3%E5%B8%B8%E5%86%92%E5%87%BA%E6%9D%A5%E7%9A%84%E6%80%9D%E8%80%83/</id>
+    <published>2021-01-04T00:18:51.000Z</published>
+    <updated>2021-05-07T20:18:47.502Z</updated>
+    
+    <content type="html"><![CDATA[<p>###没有人会逼你看你不喜欢看的电影。<br>在高强度看了5年电影以后，我得出了这个结论。<br>以后我看电影，先跳着看一遍，觉得有意思的就看，没意思的就不看了。2021/03/14</p><hr><h3 id="弱者拉屎，强者画速写"><a href="#弱者拉屎，强者画速写" class="headerlink" title="弱者拉屎，强者画速写"></a>弱者拉屎，强者画速写</h3><p>我学画期间，老师说了一句话，讲自己的老师去哪里随身都带着一个速写本，一有时间就画速写。并指出“你要是拉屎的时候都在画速写，还怕画不好吗？”</p><hr><h3 id="如何对抗高房价？"><a href="#如何对抗高房价？" class="headerlink" title="如何对抗高房价？"></a>如何对抗高房价？</h3><p>只要没人接盘（买房）房价就会下降。</p><p>人买房主要是为了“结婚”，“结婚”主要是为了“生孩子”。解决这个问题就可以对抗高房价了。</p><hr><h3 id="取网名"><a href="#取网名" class="headerlink" title="取网名"></a>取网名</h3><p>需要辨识度和曝光度的人，可以叫贾乃亮，叫古巨基，令人虎躯一震；反之，不想在百度上被查户口，则可以叫孙悦，叫李娜，让人搞不清楚你是唱歌的还是打球的。此大禹治水之道：堵不如疏。防民之口，甚于防川。比删除个人信息更有效的办法，是用更多的冗余信息去淹没它。</p><hr><p>###我们为什么怕蜘蛛？</p><p>我们怕的不是蜘蛛，是章鱼。</p><p>这是我们还是鱼的时候就形成的。</p><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;###没有人会逼你看你不喜欢看的电影。&lt;br&gt;在高强度看了5年电影以后，我得出了这个结论。&lt;br&gt;以后我看电影，先跳着看一遍，觉得有意思的就看，没意思的就不看了。2021/03/14&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;弱者拉屎，强者画速写&quot;&gt;&lt;a href=&quot;#弱者拉屎，强</summary>
+      
+    
+    
+    
+    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="记录 log" scheme="https://naichaduck.github.io/tags/%E8%AE%B0%E5%BD%95-log/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021学习笔记</title>
+    <link href="https://naichaduck.github.io/T%202021%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>https://naichaduck.github.io/T%202021%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2021-01-02T19:56:12.000Z</published>
+    <updated>2021-05-16T10:27:09.709Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="2021学习笔记"><a href="#2021学习笔记" class="headerlink" title="2021学习笔记"></a>2021学习笔记</h3><h4 id="经济学"><a href="#经济学" class="headerlink" title="经济学"></a>经济学</h4><ul><li>专业化分工与贸易使得生产更有效率（使人们生活更好）</li><li>经济系统由政府参与程度大小做区分</li><li>市场需要监管的原因（道德方面）举例：人体器官（滋生犯罪），医疗紧急救援（趁你病，要你命）。（实际上自由市场最终也可以调节这些问题，自由市场根本不需要政府监管。）</li><li>生产效率的提高导致生产力提高导致增长</li><li>生产的要素：自然资源，劳动力，资本（工具/人力资本，如知识技能）</li></ul><p>社会需要一些人种粮食，一些人做衣服，还有一些人开发电脑软件。一旦社会分配人们（以及土地，建筑，机器）去做各种工作，他就必然需要将他们生产的物品与劳务量进行分配。社会需要决定谁将吃鱼子酱而谁将吃土豆，谁将开法拉利跑车而谁将坐公交汽车。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;2021学习笔记&quot;&gt;&lt;a href=&quot;#2021学习笔记&quot; class=&quot;headerlink&quot; title=&quot;2021学习笔记&quot;&gt;&lt;/a&gt;2021学习笔记&lt;/h3&gt;&lt;h4 id=&quot;经济学&quot;&gt;&lt;a href=&quot;#经济学&quot; class=&quot;headerlink&quot; ti</summary>
+      
+    
+    
+    
+    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="记录 log" scheme="https://naichaduck.github.io/tags/%E8%AE%B0%E5%BD%95-log/"/>
+    
+    <category term="经济学" scheme="https://naichaduck.github.io/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
+    
+    <category term="书籍 book" scheme="https://naichaduck.github.io/tags/%E4%B9%A6%E7%B1%8D-book/"/>
+    
+    <category term="电影 film" scheme="https://naichaduck.github.io/tags/%E7%94%B5%E5%BD%B1-film/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录一次快速搭建网站</title>
+    <link href="https://naichaduck.github.io/S%20%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/"/>
+    <id>https://naichaduck.github.io/S%20%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/</id>
+    <published>2020-12-19T01:44:35.000Z</published>
+    <updated>2020-12-19T03:59:07.967Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="记录一次快速搭建网站"><a href="#记录一次快速搭建网站" class="headerlink" title="记录一次快速搭建网站"></a>记录一次快速搭建网站</h2><p>前提：</p><ul><li>本地已经拥有一个<code>GitPage</code>在维护</li></ul><p>我所做的事情：</p><ol><li><p>删除原来的<code>Organization</code></p><blockquote><p><code>GitHub</code>一共每个账号送两个免费博客网页，我原本有一个在<code>Organization</code>上，转移了一下，详见 <a class="link"   href="https://aiguoartist.github.io/s-ji-lu-yi-ci-bo-ke-qian-yi-yu-zheng-li-you-hua/" >这篇文章<i class="fas fa-external-link-alt"></i></a></p></blockquote></li><li><p>想好名字，建立新<code>Organization</code>（取名双耳猫粮，原QQ群名）建立对应<code>Repository</code>（注意建立时带个README文档）（注意要PUBLIC）</p></li><li><p><del>Gitbash查看SSH密匙<code>$ ls -al ~/.ssh</code></del></p></li><li><p>在REPO下找到链接<img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/102678512-5538db00-41a9-11eb-9005-df88b5e1f218.png"                      alt="链接位置"                ></p></li><li><p>改<code>config.yml</code> <img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/102679324-4a814480-41af-11eb-833c-4f93b6550874.png"                      alt="config.yml示范"                ></p></li><li><p>删除原来的文章</p></li><li><p>评论功能原链接替换详见<a class="link"   href="https://aiguoartist.github.io/s-ji-lu-yi-ci-bo-ke-qian-yi-yu-zheng-li-you-hua/" >此链接<i class="fas fa-external-link-alt"></i></a></p><blockquote><p>跟原链接里的差别是，要重新建立一个REPO，不然跟另一个博客的评论功能会混在一起，见这两图：<img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/102679340-6edd2100-41af-11eb-83aa-49dbfcb7a328.png"                      alt="新建REPO"                ><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/102679347-7c92a680-41af-11eb-8c18-29c2d1739876.png"                      alt="更改配置"                ></p></blockquote></li><li><p>更改GOOGLEANALYTICS</p><blockquote><p>先建立媒体资源，再建立数据流，复制ID，替换<code>config.yml</code>里原来的，详见此图：<img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/102679352-8d431c80-41af-11eb-9de1-ff930437d60d.png"                      alt="谷歌分析"                ></p><blockquote><p>谷歌的说明：</p><p>###媒体资源</p><p>媒体资源代表应用或网站。一个帐号可以包含一项或多项媒体资源。</p><p>在 Analytics（分析）帐号中，您可以为要从中收集数据的应用和网站创建媒体资源。当您向帐号中添加媒体资源时，Analytics（分析）会生成相应的代码段，供您用来从该应用或网站中收集数据。此代码包含一个唯一 ID，用于标识来自该媒体资源的数据，方便您在报告中加以识别。</p><p>当您从应用中收集数据时，媒体资源应代表某个逻辑应用，例如 Gmail。下一节就如何为应用创建相关的数据流提供了指导，欢迎参阅。</p><p><a class="link"   href="https://support.google.com/analytics/answer/9304153#property" >点此<i class="fas fa-external-link-alt"></i></a>可详细了解如何向您的 Analytics（分析）帐号添加媒体资源。</p><h3 id="数据流"><a href="#数据流" class="headerlink" title="数据流"></a>数据流</h3><p>数据流是指从客户接触点（例如，应用、网站）到 Google Analytics（分析）的数据流。</p><p>您可以向同一媒体资源添加多个数据流，例如可添加三个，分别用来从您的 Android 版应用传送数据、从您的 iOS 版应用传送数据和从您的网站传送数据。可以在报告中查看来自多个数据流的所有数据，也可以对报告进行过滤，使之仅包含特定数据流。</p><p>您创建数据流之后，针对该媒体资源生成的报告将显示自此数据流创建之日起收集的数据。例如，如果数据流创建于 6 月 1 日，则报告将包含自 6 月 1 日起的数据，而不会包含 6 月 1 日之前收集的任何数据。</p><p>如果您删除数据流，Analytics（分析）会保留历史数据，但不会对这些数据做进一步处理，您也无法在报告过滤条件中使用这些数据。</p><p><a class="link"   href="https://support.google.com/analytics/answer/9304153" >点此<i class="fas fa-external-link-alt"></i></a>可详细了解如何向您的 Analytics（分析）媒体资源添加数据流。</p></blockquote></blockquote></li><li><p><code>hexo g``hexo d</code>初始化网页，检查问题。</p></li><li><p>发现问题，修改<code>branch</code><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/102679467-6d602880-41b0-11eb-9f2d-18409443c185.png"                      alt="BRANCH改成网页的"                ></p></li><li><p>   发现问题，更改VISIBILITY（要public才免费）</p></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;记录一次快速搭建网站&quot;&gt;&lt;a href=&quot;#记录一次快速搭建网站&quot; class=&quot;headerlink&quot; title=&quot;记录一次快速搭建网站&quot;&gt;&lt;/a&gt;记录一次快速搭建网站&lt;/h2&gt;&lt;p&gt;前提：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本地已经拥有一个&lt;code&gt;GitPage</summary>
+      
+    
+    
+    
+    <category term="技术 skill" scheme="https://naichaduck.github.io/categories/%E6%8A%80%E6%9C%AF-skill/"/>
+    
+    
+    <category term="记录 log" scheme="https://naichaduck.github.io/tags/%E8%AE%B0%E5%BD%95-log/"/>
+    
+    <category term="博客 blogging" scheme="https://naichaduck.github.io/tags/%E5%8D%9A%E5%AE%A2-blogging/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录一次博客迁移与整理优化</title>
+    <link href="https://naichaduck.github.io/S%20%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%8D%9A%E5%AE%A2%E8%BF%81%E7%A7%BB%E4%B8%8E%E6%95%B4%E7%90%86%E4%BC%98%E5%8C%96/"/>
+    <id>https://naichaduck.github.io/S%20%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%8D%9A%E5%AE%A2%E8%BF%81%E7%A7%BB%E4%B8%8E%E6%95%B4%E7%90%86%E4%BC%98%E5%8C%96/</id>
+    <published>2020-12-14T01:37:33.000Z</published>
+    <updated>2020-12-15T23:02:10.482Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="记录一次博客迁移与整理优化"><a href="#记录一次博客迁移与整理优化" class="headerlink" title="记录一次博客迁移与整理优化"></a>记录一次博客迁移与整理优化</h3><h4 id="我要做什么？"><a href="#我要做什么？" class="headerlink" title="我要做什么？"></a>我要做什么？</h4><ul><li>把域名chongxinzuoren.github.io的博客内容全部搬运回aiguoartist.github.io（在我想到更好的艺名前）</li><li>将博客文章分类、排序、整理</li></ul><h4 id="为什么我要迁移博客？"><a href="#为什么我要迁移博客？" class="headerlink" title="为什么我要迁移博客？"></a>为什么我要迁移博客？</h4><p>最近又看了一遍编程随想的博客，他的文章实在是写得好，条理清晰，受到了感触。</p><p>我的博客现在文章分类和标签很乱，是为分类而分类。我想使他条例更加清晰，我认为等我把这个理顺，我会写出更多优秀的文章。</p><p>其实仔细一想，这个博客不是很有必要转移域名，意义不明。</p><p>我能想到的唯一理由就是“FEEL”，对博客归我的FEEL，然后第二理由是我的GIT账号是AIGUOARTIST，不用的话感觉很浪费。</p><h4 id="具体操作"><a href="#具体操作" class="headerlink" title="具体操作"></a>具体操作</h4><ol><li>改了一下<code>CONFIG.YML</code> 好像就这样就可以改回原来的域名了？这也太简单了，测试一下。</li></ol><blockquote><p>确实成功了，域名转移只通过修改<code>config.yml</code>就完成了。</p></blockquote><ol start="2"><li><p>原本的评论功能转移，进 <a class="link"   href="https://github.com/settings/developers" >https://github.com/settings/developers<i class="fas fa-external-link-alt"></i></a> 找到应用里的<code>clientId</code>与<code>clientSecret</code>，替换原本主题文件夹里<code>config.yml</code>的<code>cid,cs</code>。测试一下。</p><blockquote><p>成功了，这一步要注意的是<code>repo</code>值不要改，这样子就可以保留原有的评论了。感谢我之前第一次迁移的时候没有偷懒把<code>repo</code>直接扔到<code>githubPages</code>的<code>issue</code>里。不然迁移会很麻烦（大概）。</p></blockquote></li><li><p>到这一步该迁移的只剩图片原本的存储位置了。我的图片是扔到ISSUE里，超链接形式显示的。先回去看一下原本的机制，好的话不用迁移。</p><p>测完了，我有两个图床，我想把它们合并到评论功能的REPO下。</p><p>总共四张图，但是迁移太麻烦了（传到新图床，找到对应文章改链接）</p></li><li><p>整理文章，首先把之前几个日记形式和周记形式的几篇文章合并到一个文章上，不然以后要读还得一个一个点开读我自己都嫌累。</p></li></ol><h3 id="整理文章"><a href="#整理文章" class="headerlink" title="整理文章"></a>整理文章</h3><p>首先看一下目前的文章情况分析一下：</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/102169776-3ed20d00-3e93-11eb-83dc-9455c20e6b47.png"                      alt="`post`文件夹截图"                ></p><p>可以发现问题：</p><ul><li>标题杂乱，找文章要一个一个对应读</li></ul><p>再看看网站的统计：</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/102170038-bef87280-3e93-11eb-805c-aa889171d06b.png"                      alt="文章分类"                ></p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/102170066-cf105200-3e93-11eb-9d91-2da879712e7e.png"                      alt="文章标签"                ></p><p>可以发现问题：</p><ul><li>标签有英文有中文混杂</li><li>分类与标签模糊不清，看不到逻辑结构</li></ul><p>提出解决方法：</p><ol><li>合并日记与周记形式的文章</li><li>给文章标题加上一套命名规则，方便在文件夹内快速寻出</li><li>理顺文章分类与文章标签的逻辑关系，重新分类标记文章</li><li>文章分类与文章标记的中英文重命名</li></ol><p>一步一步来。</p><p>全部完成了，清爽的一批。展示一下新的成果：</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/102282182-793db780-3f30-11eb-9ddf-ebb811f6399d.png"                      alt="改后文件夹截图"                ></p><ul><li>合并了之前琐碎的日记</li><li>全部重命名了一下按<code>category</code>分类成了D日记、S技能、T思想</li><li>日记中拆出几个文章另成一篇。</li></ul><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/102282452-ee10f180-3f30-11eb-8afe-ee178a646c71.png"                      alt="改后的标签"                ></p><ul><li>标签比较自由，简单的收了一下</li><li>把中英文什么的打全了</li><li>排除了几个同质标签</li></ul><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/102282633-2d3f4280-3f31-11eb-8505-c1767cd02ad6.png"                      alt="改后的文章分类"                ></p><ul><li><p>把原来的五项分类分成了三大项目</p><blockquote><p>以后有新的项目的话，可以再延展一下</p></blockquote></li></ul><p>除了以上三大项，还稍微修改了几个小毛病，添加了<code>GoogleAnalytics</code></p><p>就这么多了，圆满完成，庆祝一下。</p><p>之后就是可以写优质文章了，有那么一两篇拿得出手的，我就开始到处挖友链。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;记录一次博客迁移与整理优化&quot;&gt;&lt;a href=&quot;#记录一次博客迁移与整理优化&quot; class=&quot;headerlink&quot; title=&quot;记录一次博客迁移与整理优化&quot;&gt;&lt;/a&gt;记录一次博客迁移与整理优化&lt;/h3&gt;&lt;h4 id=&quot;我要做什么？&quot;&gt;&lt;a href=&quot;#我要做</summary>
+      
+    
+    
+    
+    <category term="技术 skill" scheme="https://naichaduck.github.io/categories/%E6%8A%80%E6%9C%AF-skill/"/>
+    
+    
+    <category term="记录 log" scheme="https://naichaduck.github.io/tags/%E8%AE%B0%E5%BD%95-log/"/>
+    
+    <category term="博客 blogging" scheme="https://naichaduck.github.io/tags/%E5%8D%9A%E5%AE%A2-blogging/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>聪明人喜欢做的蠢事</title>
+    <link href="https://naichaduck.github.io/T%20%E8%81%AA%E6%98%8E%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%81%9A%E7%9A%84%E8%A0%A2%E4%BA%8B/"/>
+    <id>https://naichaduck.github.io/T%20%E8%81%AA%E6%98%8E%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%81%9A%E7%9A%84%E8%A0%A2%E4%BA%8B/</id>
+    <published>2020-06-19T23:09:21.000Z</published>
+    <updated>2020-12-20T00:45:22.982Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="聪明人喜欢做的蠢事"><a href="#聪明人喜欢做的蠢事" class="headerlink" title="聪明人喜欢做的蠢事"></a>聪明人喜欢做的蠢事</h3><ol><li>偏爱复杂的想法</li><li>完美主义</li></ol><p>为什么蠢？</p><ul><li>实施和维持这种复杂想法的代价太昂贵</li><li>没必要涉及那么多人和事</li><li>没必要做到那么好</li><li>有时候，某些事情一看就是错的</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;聪明人喜欢做的蠢事&quot;&gt;&lt;a href=&quot;#聪明人喜欢做的蠢事&quot; class=&quot;headerlink&quot; title=&quot;聪明人喜欢做的蠢事&quot;&gt;&lt;/a&gt;聪明人喜欢做的蠢事&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;偏爱复杂的想法&lt;/li&gt;
+&lt;li&gt;完美主义&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;</summary>
+      
+    
+    
+    
+    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="书籍 book" scheme="https://naichaduck.github.io/tags/%E4%B9%A6%E7%B1%8D-book/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>睡眠</title>
+    <link href="https://naichaduck.github.io/T%20%E7%9D%A1%E7%9C%A0/"/>
+    <id>https://naichaduck.github.io/T%20%E7%9D%A1%E7%9C%A0/</id>
+    <published>2020-06-18T21:33:04.000Z</published>
+    <updated>2021-01-04T02:58:39.995Z</updated>
+    
+    <content type="html"><![CDATA[<p>###睡眠</p><p>2020-06-18 补充</p><p>熬夜是不能被允许的，是不自然的，而且也是没必要的。日出而作，日落而眠才是常态。</p><p>从进化论的角度我分析了一遍，日落以后并不是最佳的睡眠时间，事实上，我们的祖先在日落以后会大家在篝火旁聚在一起，讲故事。这个机制目前还没有被淘汰掉。</p><p>就我个人而言，在熬夜的时候我能感觉到自己的大脑异常清醒而且充满想象力和创造力，灵感爆发的状态。这是大自然的恩赐，不能白白浪费掉，但是一种脱离常态的熬夜是不可取的。</p><p>灵感爆发默认是在深夜之前11点之前，过了这个时间大家都应该睡觉了。</p><p>关于睡觉问题，我倒还有几个点想要讨论。</p><hr><p>每个人需要睡觉的时间都不一样。</p><p>从大的来看，新生儿需要睡眠时间最久（因为要长身体）在睡眠中，新生儿的脑细胞处在一个积极分裂的状态，要是一个新生儿缺少睡眠，他理论上会比同龄人笨。（这是所有年轻父母现在常犯的错误，因为自己熬夜所以也让自己的后代跟着受罪）</p><p>其次是青少年，青少年需求的睡眠时间也很多，因为这是一个长身体的阶段。跟新生儿不同，青少年的身体（特别是四肢）在睡眠时间会处在一个积极分裂的状态。缺少睡眠的青少年，理论上会比同龄人矮小。</p><p>刚刚成年的成年人，睡眠需求最少，因为自己是家庭、部落的中坚力量，事实上夜班即使是在原始时代就已经有了。20岁前后的人是可以肆意熬夜的，这是唯一一个特例。</p><p>接下来是中年人，在原始时代，这个阶段的人都是部落里的长老和智囊，睡眠需求会在白天增加，会出现打盹。夜晚的睡眠需求会减少，但是依然需要保持八小时以上的睡眠。</p><p>40岁往后的老年人在原始时代是稀缺物种，这时候老年人每多活一天，对于部落的存活就有多一天的巨大贡献。这一时期的人睡眠需求非常少，因为重要的是保持清醒并将自己的智慧传下去，而不是修补已经老化的身体。</p><hr><p>从小的来看，如何测试自己的睡眠需求呢？</p><p>自然睡，自然醒，记录下来自己自然醒的时间，计算一下就好了。</p><p>为了保证不受日光干扰，最好的方法就是在一个完全黑暗的房间，按照自己平常的睡眠时间入睡，然后自然醒。计算出来两者的时间就是自己身体真正需要的睡眠时间。</p><p>就我个人而言，我的睡眠时间是9：40，九小时四十分钟</p><p>也就是说，要让我的身体完全恢复过来，我需要接近十小时的睡眠时间。</p><hr><p>版权归作者所有，任何形式转载请联系作者。<br>作者：秋叶（来自豆瓣）<br>来源：<a class="link"   href="https://www.douban.com/note/622170545/" >https://www.douban.com/note/622170545/<i class="fas fa-external-link-alt"></i></a></p><p>很多人之所以不能快速入睡，其实根本原因是不够累！只要你累到极点，根本是给个凳子你就能睡着。</p><p>我怀疑睡不着的人里面，一半还是给闲的，人一闲，心里就爱瞎琢磨，一瞎琢磨，就容易半夜睡不着，瞎想，一想就自己吓自己，然后就更睡不着，恶性循环。</p><p>怎么破？</p><p>先得屏蔽一切干扰你睡眠的可能，给自己创造睡眠环境。</p><p>怕被呼噜等声音吵醒，上网买个耳塞，音量能减少80%，打雷都听不见；</p><p>怕亮光，拉窗帘，戴眼罩。</p><p>怕睡了一会想起来尿尿，先去上厕所，还有别多喝水。</p><p>怕亢奋，别喝茶喝咖啡。</p><p>最最重要的，把手机放在够不到的地方，嗯，设置为静音。</p><p>创造了环境，可以开始训练30秒快速入睡的神技能了。</p><p>首先你要相信，30秒快速入睡本质是一种能力，通过合理训练大脑，就一定能做到。</p><p>关键是你想更快入睡，就得调教你的大脑，培养想睡觉时就放弃其他所有活动的坏习惯，不再把胡思乱想作为一个选项，当你决定睡觉时，它就立刻不加延迟地转换到睡眠状态。</p><p>听起来有点难，但这就好像你一看到美女躺在床上，你就不会想其他的事情一样。其实经过训练，即便是美女躺在床上等你，你也会冷静思考国家大事，比如像007邦德。</p><p>正向和反向都不是关键，关键是你要知道你的大脑不刻意训练，它会大量依赖潜意识工作，而我们经常训练，会让大脑的潜意识变成自觉的行为，听起来很玄是吧？其实我觉得瑜伽还有很多吐纳练习的本质都是这个。</p><p>训练过程也很简单，你只要坚持做两件事情：一是固定时长的小睡，二是每天早上固定时间都用闹钟叫醒自己。</p><p>你负责坚持，剩下的交给时间。</p><p>第一件事：固定时长的小睡。它可以训练你的大脑在任何时候更快入睡。</p><p>在一天任何时候，当你感到昏昏欲睡时，就允许自己小睡20分钟。但你一共只能睡20分钟，你可以设置一个闹钟来严格控制时间。</p><p>当你开始躺下或趴下开始计，无论自己是否睡着，也不管休息效果如何你总共就只有20分钟，到点必须起来，多一分钟都不行！</p><p>这点很关键，你要明白无误告诉你的大脑，一次20分钟小睡，一旦开始计时，若大脑想在这段时间内思量什么，就始终意味着牺牲宝贵的睡眠时间。</p><p>小睡在任何时候都可以进行，但是不要连续小睡，每次小睡至少间隔1个小时。</p><p>习惯了20分钟小睡，可尝试更短时间的小睡。</p><p>我是如何培养出这种能力的，现在回忆起来是在高中，读书非常辛苦，睡眠严重不足，一下课我就趴桌子睡，能睡多久是多久，一开始睡不着，后来发现可以一分钟内就睡着，到了最后一分钟一个机灵就醒了。</p><p>补充一个盹，整节课都精神了，估计我这快速入睡能力就是这个阶段练出来的。</p><p>如果你担心小睡过头，请安排一个靠谱的朋友或同事来喊你。</p><p>第二件事：每天早上固定时间用闹钟叫醒自己。</p><p>把闹钟每天都设定在一个同样时间，一周七天都这样。每早闹钟响起时，立刻起床，没有任何理由地立刻起床，不要磨蹭。</p><p>固定你的起床时间相当于告诉大脑的信息是，自己只有有限的睡眠时间。所以如果你的大脑想获得足够休息，它最好学会如何尽快入睡，从而最大程度地利用分配给自己的睡眠时间。要是它浪费入睡时间，就是剥夺自己的部分睡眠。</p><p>而很多人的暗示是，今天我熬夜，周末我去补觉补回来，这样的话大脑对睡觉这件事就不会太敏感，反正你随意我随意。</p><p>大脑也很聪明，它能明白接受你的暗示，调整它的潜意识，大脑潜意识会告诉人体，如果耗费太长时间入睡等于剥夺充足睡眠，也就意味着整天感到疲劳和困顿。</p><p>所以没得选，尽快入睡是它唯一的解决方案，它会加快转换到睡眠状态来适应变化，从而保证自己拥有需要的充分休息。</p><p>大脑聪明吧，其实只是因为没得选罢了；没有退路，谁都得聪明。你很聪明吗？知道自己今晚必须在规定时间到来时必须放下手机了吗？</p><p>很多人就是给自己留了太多退路，晚点睡，就允许晚点起；白天困就晚上补觉，工作日累就周末睡，或者抽烟喝茶喝咖啡来刺激自己的工作。所以你以前总在暗示大脑浪费入睡时间没什么大不了，因为你还有很多额外时间或手段来弥补，这样大脑就会在潜意识里面放弃对时间的控制，对快速入睡这件事的管理。</p><p>你必须从开始坚持训练大脑，让大脑充分意识到你的决心，你的睡眠时间是个有限资源的现实，这件事不可逆转。</p><p>你必须在固定时间起床，所以你睡得越晚，你越倒霉。</p><p>我就是因为要带课，必须养成每天早上6点左右起床的习惯，不管晚上几点睡，都必须如此。我想这种暗示对大脑形成了强刺激，就是作为经常熬夜的我，每一秒钟的睡眠都很重要，所以帮主人快速入睡，也是保持身体健康的最后防线，所以让潜意识和显意识都发挥作用吧！</p><p>30秒，请入睡！——大脑君，拜托了。</p><p>3</p><p>那什么时候入睡呢？</p><p>存在两种观点。</p><p>第一种观点认为应当每天在固定时间睡觉和固定时间起床。它就像在睡眠两端都设置闹钟 。</p><p>第二种观点认为应当倾听身体需求，只在感到困倦时上床睡觉，并在自然醒时起床。</p><p>我的经验是这两种观点都没有什么用，决定我用哪种睡眠模式的不是方法，而是工作量！</p><p>我的经验很简单，一旦自己困得不行时，或者感觉熬夜很晚了，必须上床睡觉，并在早上固定时间用闹钟起床。</p><p>只要坚持这一点，就相当于告诉大脑，我得尽快睡，多睡一秒钟都是给明天充电。</p><p>要是没有充够，熬夜实在太晚了，白天还是困，就记得利用小睡能力。</p><p>这就好像充电宝，一种是慢充，一种是快充。</p><p>这种训练方法绝对是有效的，但是你要多长时间才能培养出这种能力，程取决于你自己的自律性，每个人需要的时间都不一样。</p><p>最后说一句，每个人身体都有自己的生物钟，你去发现和适应它就好，能正常作息最幸福了。</p><p>总之借助</p><p>【1】有时限地小睡<br>【2】坚持每天在同一时间起床</p><hr><h3 id="环境"><a href="#环境" class="headerlink" title="环境"></a>环境</h3><p>暗，静，低温，好的床上用品</p><h3 id="技巧"><a href="#技巧" class="headerlink" title="技巧"></a>技巧</h3><p>白噪音，看书，催眠，放松</p><h3 id="饮食"><a href="#饮食" class="headerlink" title="饮食"></a>饮食</h3><p>高碳水，热饮。</p><h3 id="习惯"><a href="#习惯" class="headerlink" title="习惯"></a>习惯</h3><p>固定作息</p><p>睡前不运动</p><hr><p><strong>美国海军2分钟快速入睡方法怎么做？</strong></p><p><strong>第一步</strong>，放松你的整个面部，包括口腔内的肌肉。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic4.zhimg.com/80/v2-7b09f03c31e2d88e5c89ac021bee06bb_720w.jpg"                      alt="img"                ></p><p><strong>第二步</strong>、放下手臂，越低越好，可以释放紧张感，尽快放松，如果做不到，可以先让他们紧张一下，然后再放松。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic1.zhimg.com/80/v2-e6b933b64706a672f2415d9e92813380_720w.jpg"                      alt="img"                ></p><p><strong>第三步</strong>、呼气，放松胸部，吸入足够的氧气，让你的肺部充满氧气。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic3.zhimg.com/80/v2-620e5478982a646202482e5a53b90b06_720w.jpg"                      alt="img"                ></p><p><strong>第四步</strong>、想办法放松你的腿（大腿和小腿），关注你的脚和膝盖。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://pic2.zhimg.com/80/v2-cc53e61c0deb608c364a5f2207ca3871_720w.jpg"                      alt="img"                ></p><p><strong>第五步</strong>、全身放松后，可以开始清理你的思绪，想象一个放松的场景，让你的思绪清醒10秒。</p><p>书籍的作者建议一个场景，就是想象自己躺在一个小船上，天空是湛蓝的，海面是蓝色的。</p><p><strong>第六步</strong>、如果想象不起作用，可以反复对自己说“<strong>不要想、不要想、不要想…</strong>”重复大约10秒钟，你会很快就睡着了！</p><p>一定要注意的是，这个方法需要时间练习，第一次不一定有效果，<strong>美军训练6周，成功率达到96%以上。</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;###睡眠&lt;/p&gt;
+&lt;p&gt;2020-06-18 补充&lt;/p&gt;
+&lt;p&gt;熬夜是不能被允许的，是不自然的，而且也是没必要的。日出而作，日落而眠才是常态。&lt;/p&gt;
+&lt;p&gt;从进化论的角度我分析了一遍，日落以后并不是最佳的睡眠时间，事实上，我们的祖先在日落以后会大家在篝火旁聚在一起，讲</summary>
+      
+    
+    
+    
+    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="健身 workout" scheme="https://naichaduck.github.io/tags/%E5%81%A5%E8%BA%AB-workout/"/>
+    
+    <category term="睡眠 sleep" scheme="https://naichaduck.github.io/tags/%E7%9D%A1%E7%9C%A0-sleep/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>技能</title>
+    <link href="https://naichaduck.github.io/T%20%E6%8A%80%E8%83%BD/"/>
+    <id>https://naichaduck.github.io/T%20%E6%8A%80%E8%83%BD/</id>
+    <published>2020-05-21T21:33:04.000Z</published>
+    <updated>2021-01-14T23:20:25.761Z</updated>
+    
+    <content type="html"><![CDATA[<p>MMD 钢琴 埙 五线谱 简谱 黑客 社会工程学 PS 摄影 C语言 </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;MMD 钢琴 埙 五线谱 简谱 黑客 社会工程学 PS 摄影 C语言 &lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>删除的文件记录</title>
+    <link href="https://naichaduck.github.io/T%20%E5%88%A0%E9%99%A4%E7%9A%84%E6%96%87%E4%BB%B6%E8%AE%B0%E5%BD%95/"/>
+    <id>https://naichaduck.github.io/T%20%E5%88%A0%E9%99%A4%E7%9A%84%E6%96%87%E4%BB%B6%E8%AE%B0%E5%BD%95/</id>
+    <published>2020-05-20T11:20:56.000Z</published>
+    <updated>2020-12-15T06:06:39.629Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="删除的文件记录"><a href="#删除的文件记录" class="headerlink" title="删除的文件记录"></a>删除的文件记录</h3><p>为了配合<strong>极简主义</strong>理念，我要删除</p><ul><li>重复的文件</li><li>失效过时的文件</li><li>网上能轻易下到的文件</li><li>可留可不留的文件</li></ul><p>这也是经过<a class="link"   href="https://www.runningcheese.com/fm" >奔跑的奶酪的博客<i class="fas fa-external-link-alt"></i></a>启发的行动</p><p>接下来在此，我会记录下我选择删除的东西和原因，方便以后的回顾和参考。</p><p>3D人物模型DesignDoll汉化版</p><ul><li>可留可不留、网上极易下到，用途是在绘画时做人体参考</li><li>这是一种溢出的功能，真正的绘画大师本身不需要这种诡异东西</li><li>大家可以直接自己摆出动作然后拍照或者网上找动作，所以不需要这个软件</li></ul><p>CAJ</p><ul><li>知网论文阅读器</li><li>网上轻易下到</li><li>已经毕业，不需要知网论文</li></ul><p>CorelDRAW12简体中文版</p><ul><li>版本过老</li><li>网上轻易下载</li></ul><p>GIF录制Honeycam</p><ul><li>我不需要</li><li>网上轻易下到</li><li>本身不好用</li></ul><p>prezi大礼包</p><ul><li>OFFICE就能满足</li><li>不主流的幻灯片软件</li><li>网上轻易下到</li></ul><p>Uninstall Tool v3.5.7 Build 5610</p><ul><li>我真的需要吗</li><li>不会用，需要学习</li><li>有同类软件</li></ul><p>VOCALOID3汉化版加中文洛天依语音库附教程整理</p><ul><li>过时</li><li>需要时再下</li><li>没用过</li></ul><p>按键精灵9</p><ul><li>不需要</li><li>脚本软件，主要用途：鼠标连点</li></ul><p>打字音效Tickeys 1.0.1</p><ul><li>不需要</li><li>辅助类软件</li></ul><p>格式工厂</p><p>汉化DELPHI程序ha_Restorator-v2009</p><p>截屏BANDICAM</p><ul><li>同类软件OBS更好用</li></ul><p>截图软件Greenshot_1.2.0.72_XiaZaiBa</p><p>酷狗VIP破解KuGou_NoAD_VIP</p><p>快速复制FastCopy</p><p>快速拼接全景图 AcroPano Photo Stitcher 2.14_CN</p><p>快速搜索Everything_1.3.4.686_XiaZaiBa</p><p>去水印Inpaint</p><p>三国杀卡片工具</p><p>视频压缩Free Video Compressor 汉化版</p><p>图片立体化tikuwa4</p><p>图片无损放大PhotoZoomPortable</p><p>游戏王卡片工具</p><p>专业视频转码iSkysoft</p><p>ChemOffice 2018 18.1.2.18</p><p>cubase</p><p>好了我错了</p><p>我的没用软件存的是真的多</p><p>我不做记录了</p><p>不用的直接删光</p><p>有用的还需要我筛选出不同版本号</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;删除的文件记录&quot;&gt;&lt;a href=&quot;#删除的文件记录&quot; class=&quot;headerlink&quot; title=&quot;删除的文件记录&quot;&gt;&lt;/a&gt;删除的文件记录&lt;/h3&gt;&lt;p&gt;为了配合&lt;strong&gt;极简主义&lt;/strong&gt;理念，我要删除&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;重复的文</summary>
+      
+    
+    
+    
+    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="记录 log" scheme="https://naichaduck.github.io/tags/%E8%AE%B0%E5%BD%95-log/"/>
+    
+    <category term="极简主义 minimalism" scheme="https://naichaduck.github.io/tags/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89-minimalism/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从电影《守法公民》谈创作者的自我审查</title>
+    <link href="https://naichaduck.github.io/T%20%E4%BB%8E%E7%94%B5%E5%BD%B1%E3%80%8A%E5%AE%88%E6%B3%95%E5%85%AC%E6%B0%91%E3%80%8B%E8%B0%88%E5%88%9B%E4%BD%9C%E8%80%85%E7%9A%84%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/"/>
+    <id>https://naichaduck.github.io/T%20%E4%BB%8E%E7%94%B5%E5%BD%B1%E3%80%8A%E5%AE%88%E6%B3%95%E5%85%AC%E6%B0%91%E3%80%8B%E8%B0%88%E5%88%9B%E4%BD%9C%E8%80%85%E7%9A%84%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/</id>
+    <published>2020-05-13T13:22:33.000Z</published>
+    <updated>2020-12-15T05:55:15.462Z</updated>
+    
+    <content type="html"><![CDATA[<p>!(<a class="link"   href="https://user-images.githubusercontent.com/64490875/81820393-d99aef80-9530-11ea-83cd-092e45b3ae8e.jpg" >https://user-images.githubusercontent.com/64490875/81820393-d99aef80-9530-11ea-83cd-092e45b3ae8e.jpg<i class="fas fa-external-link-alt"></i></a>)</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://user-images.githubusercontent.com/64490875/81820393-d99aef80-9530-11ea-83cd-092e45b3ae8e.jpg"                      alt="守法公民"                ></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;!(&lt;a class=&quot;link&quot;   href=&quot;https://user-images.githubusercontent.com/64490875/81820393-d99aef80-9530-11ea-83cd-092e45b3ae8e.jpg&quot; &gt;https://</summary>
+      
+    
+    
+    
+    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="电影 film" scheme="https://naichaduck.github.io/tags/%E7%94%B5%E5%BD%B1-film/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>老子的一小时健身ROUTINE</title>
+    <link href="https://naichaduck.github.io/T%20%E8%80%81%E5%AD%90%E7%9A%84%E4%B8%80%E5%B0%8F%E6%97%B6%E5%81%A5%E8%BA%ABROUTINE/"/>
+    <id>https://naichaduck.github.io/T%20%E8%80%81%E5%AD%90%E7%9A%84%E4%B8%80%E5%B0%8F%E6%97%B6%E5%81%A5%E8%BA%ABROUTINE/</id>
+    <published>2020-05-06T01:37:27.000Z</published>
+    <updated>2021-01-14T23:20:32.983Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li>施君手臂练习</li><li>俯卧撑 (需要渐进式计划)</li><li>仰卧起坐（可用腹肌撕裂者代替）</li><li>弓步压腿，转臂</li><li>前踢、外摆、里合、倒踢 （可以踢物体）</li><li>前劈、横劈、横劈坐</li><li>正压、测压、反压、高腿</li><li>前俯腰、下腰</li><li>施君腿部练习 （只在不会打扰别人，地板坚硬的环境下）</li><li>引体向上/空击 （视条件而定）</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;施君手臂练习&lt;/li&gt;
+&lt;li&gt;俯卧撑 (需要渐进式计划)&lt;/li&gt;
+&lt;li&gt;仰卧起坐（可用腹肌撕裂者代替）&lt;/li&gt;
+&lt;li&gt;弓步压腿，转臂&lt;/li&gt;
+&lt;li&gt;前踢、外摆、里合、倒踢 （可以踢物体）&lt;/li&gt;
+&lt;li&gt;前劈、横劈、横劈坐&lt;/li&gt;
+&lt;li&gt;正压</summary>
+      
+    
+    
+    
+    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="健身 workout" scheme="https://naichaduck.github.io/tags/%E5%81%A5%E8%BA%AB-workout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown的正确学习方法</title>
+    <link href="https://naichaduck.github.io/S%20Markdown%E7%9A%84%E6%AD%A3%E7%A1%AE%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
+    <id>https://naichaduck.github.io/S%20Markdown%E7%9A%84%E6%AD%A3%E7%A1%AE%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/</id>
+    <published>2020-05-04T15:38:49.000Z</published>
+    <updated>2020-12-15T05:51:10.724Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="MARKDOWN到底怎么使用？"><a href="#MARKDOWN到底怎么使用？" class="headerlink" title="MARKDOWN到底怎么使用？"></a>MARKDOWN到底怎么使用？</h2><h4 id="我需要学习全部语法吗？"><a href="#我需要学习全部语法吗？" class="headerlink" title="我需要学习全部语法吗？"></a>我需要学习全部语法吗？</h4><p>Markdown的语法其实就那么几个，每一个实际应用过一遍以后要记住还是挺快的，但是有一些写文章时用不到的语法比如‘代码块’等玩意，可以不学。</p><p>有很多人在学完Markdown以后想要开始写文章，结果打开编辑器以后马上就不知道自己要干什么了，脑子里只剩下自己新学的语法，结果直接写不出文章。</p><p>怎么办呢？</p><blockquote><p>我的建议是，忘记 markdown，要是小老弟们有这个问题的话，建议先把文章写好，然后再用MARKDOWN排版。（或者正常排版）</p><blockquote><p>其实这个涉及到了一个思路的问题，MARKDOWN说到底只是一个排版语言，将我们的排版简单化。让我们在写文章的同时一口气完成排版工作，是为了追求效率而做出来的。</p><p>要是你写文章的时候因为一直想着MARKDOWN，结果失去了整个文章的思路，写不出句子来，那实在是得不偿失。</p><p>重点是，使用markdown的首先，你要保证自己的逻辑清晰，知道要写什么。</p></blockquote></blockquote><p>有两个可行的操作方法</p><ol><li>先写文，然后整理逻辑和思路，重新排版。</li><li>先把文章框架用markdown搭好，然后往里面填字。</li></ol><p>###为什么要使用Markdown？</p><p>1.省下鼠标点击来更改字体大小和粗细的时间，将自己沉浸在码字中，做到手不离键盘</p><p>2.辅助自己掌握文章结构和思路</p><p>因为MARKDOWN&gt;加上一个符号就能更改排版&lt;的迷人特性，人们往往会更倾向于写出更加条理清晰的文章，同时因为它可以使我们<strong>手不离键盘</strong>，所以对于沉浸式码字具有良好的<strong>辅助</strong>作用</p><hr><h4 id="简单的Markdown教程"><a href="#简单的Markdown教程" class="headerlink" title="简单的Markdown教程"></a>简单的Markdown教程</h4><p>首先我推荐去看<a class="link"   href="https://guides.github.com/features/mastering-markdown/" >官方<i class="fas fa-external-link-alt"></i></a>的明来了解<a class="link"   href="https://zh.wikipedia.org/wiki/Markdown" >MARKDOWN<i class="fas fa-external-link-alt"></i></a>，<a class="link"   href="https://help.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax" >官方的教程<i class="fas fa-external-link-alt"></i></a>能满足你的所有需求</p><p>反的除号</p><blockquote><p>\</p></blockquote><p>除号在想要消除MARKDOWN渲染的时候使用，本文中介绍的符号你要是看到原本的符号，都是因为前面加了除号，你才能看到。</p><hr><p>菊花号（乘）</p><blockquote><p>*</p></blockquote><p>菊花有三种用途</p><p>1.两个菊花放在文字两边是为了加粗</p><blockquote><p><strong>加粗</strong> **加粗 **</p></blockquote><p>2.一个菊花放两边是斜体</p><blockquote><p><em>斜体</em> *斜体 *</p></blockquote><p><a class="link"   href="https://www.uisdc.com/bold-underline-italic-fonts" >什么时候用斜体？<i class="fas fa-external-link-alt"></i></a></p><p>斜体在中文的情况下会影响阅读，所以这里建议不用记住。</p><p>3.菊花加上空格是无序列表</p><blockquote><ul><li><p>菊花加上空格的效果</p><p>*  菊花加上空格的效果</p></li></ul></blockquote><p>无序列表：</p><ul><li>无序列表是一个没有特定顺序的列表项的集合，也称为项目列表。</li><li>在无序列表中，各个列表之间属于并列关系，没有先后顺序之分，它们之间以一个项目符号来标记。</li><li>你可以在用来列出一个东西的<em>并列</em>特性的时候用这个方式</li></ul><p>注意，菊花加上空格可以用减号- 加上空格产生同样的效果</p><hr><p>井号</p><blockquote><h1 id=""><a href="#" class="headerlink" title=""></a></h1></blockquote><p>井号是标题，一共有6级标题6个大小，一个井号最大，6个井号最小</p><blockquote><h1 id="一个"><a href="#一个" class="headerlink" title="一个"></a>一个</h1><h2 id="两个"><a href="#两个" class="headerlink" title="两个"></a>两个</h2><p>#一个</p><p>##两个</p></blockquote><p>标题的作用：</p><ul><li>交代事件发生的背景</li><li>概括文章的主要内容</li><li>揭示文章的中心主旨</li><li>作为贯穿全文的线索</li><li>设置悬念，吸引读者的兴趣。</li></ul><p>大家开始写文的时候，建议马上先来几个井号把文章结构梳理下来，当然这个对于逻辑不太严谨的人来说有点难。反正这个学一遍就记住了，也很好用，我就不过多介绍了</p><hr><p>减号</p><blockquote><p>-</p></blockquote><p>减号的一个功能上面已经提到，另一功能是产生分割线，方法是连打三个减号</p><p>分割线的作用：使文章看起来更美观，将不同的内容分隔开</p><hr><p>分割线/-/-/-</p><p>代码块`代码`</p><p>图片：![描述](链接)</p><p>超链接：</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;MARKDOWN到底怎么使用？&quot;&gt;&lt;a href=&quot;#MARKDOWN到底怎么使用？&quot; class=&quot;headerlink&quot; title=&quot;MARKDOWN到底怎么使用？&quot;&gt;&lt;/a&gt;MARKDOWN到底怎么使用？&lt;/h2&gt;&lt;h4 id=&quot;我需要学习全部语法吗？&quot;&gt;</summary>
+      
+    
+    
+    
+    <category term="技术 skill" scheme="https://naichaduck.github.io/categories/%E6%8A%80%E6%9C%AF-skill/"/>
+    
+    
+    <category term="Markdown" scheme="https://naichaduck.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+</feed>
