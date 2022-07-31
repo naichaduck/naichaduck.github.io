@@ -6,7 +6,7 @@
   <link href="https://naichaduck.github.io/atom.xml" rel="self"/>
   
   <link href="https://naichaduck.github.io/"/>
-  <updated>2022-07-03T18:24:24.752Z</updated>
+  <updated>2022-07-31T23:19:36.789Z</updated>
   <id>https://naichaduck.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数学从入门到精通：二次函数与十字相乘法</title>
+    <link href="https://naichaduck.github.io/post/cc261ac0.html"/>
+    <id>https://naichaduck.github.io/post/cc261ac0.html</id>
+    <published>2022-07-31T21:18:03.000Z</published>
+    <updated>2022-07-31T23:19:36.789Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="数学-从入门到精通"><a href="#数学-从入门到精通" class="headerlink" title="数学 从入门到精通"></a>数学 从入门到精通</h2><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>想要好好学数学，发现自己初中知识可能都记不清了，重新在B站上找到了一个<a class="link"   href="https://www.bilibili.com/video/BV147411K7xu?p=2&share_source=copy_web" >《高中数学基础与解法全集》<i class="fas fa-external-link-alt"></i></a></p><iframe width=600 height=400 src="http://player.bilibili.com/player.html?aid=91849600&bvid=BV147411K7xu&cid=157111373&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h3 id="数学学习路径"><a href="#数学学习路径" class="headerlink" title="数学学习路径"></a>数学学习路径</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">graph LR</span><br><span class="line">数学-.函数.-&gt;二次函数-.解法.-&gt;十字相乘法</span><br><span class="line"></span><br></pre></td></tr></table></figure><h3 id="十字相乘法"><a href="#十字相乘法" class="headerlink" title="十字相乘法"></a>十字相乘法</h3><p>这是初高中衔接的基础。<br>$y=ax^2+bx+c$<br>其中 $a,b,c$ 必须都是整数。（即分数不行）</p><p>例子<br>$y=x^2-3x+2$<br>解<br>1    -1<br>1    -2<br>中间十字交叉连起来<br>第一列两个1是$X^2$来的（$x^2=x<em>x$）<br>第二列的1和2是$c$来的，这题中的$c=2$，2可以拆分成$1</em>2$或是$-1*-2$</p><blockquote><p>拆分的逻辑： 通过把$c$拆分成$c1*c2$的形式来凑出$b$<br>具体见下文</p></blockquote><p>十字连好了接下来就是相乘<br>把第一行的1与-2相乘得$1*-2=-2$<br>把第二行的1与-1相乘得$1*-1=-1$<br>接着把两个结果相加$-2+(-1)=-3=b$<br>$b$被凑出来了<br>到这步十字相乘就对了<br>最终可以横向写出化简后的式子<br>第一列的1重新乘x<br>第一行的1加-1乘以第二行的1加-2<br>$(1<em>x)+-1</em>(1<em>x)+-2=(x-1)</em>(x-2)$<br>完成</p><h3 id="二次函数的性质"><a href="#二次函数的性质" class="headerlink" title="二次函数的性质"></a>二次函数的性质</h3><p>$y=ax^2+bx+c$</p><p>在坐标轴上$y=ax^2+bx+c$是一个U形曲线，要么开口朝上要么开口朝下。<br>$a$的±决定着开口朝向+朝上-朝下。</p><p>$\Delta=b^2-4ac$<br>$\Delta$是曲线中点在Y轴上的位置<br>$\Delta&gt;0$函数在X轴（y=0）上有两个点$x_1,x_2$<br>$\Delta=0$函数在X轴（y=0）上有一个点$x_1=x_2$<br>$\Delta&lt;0$函数在X轴（y=0）上没有点，不与X轴相交</p><blockquote><p>$\Delta$怎么来的？<br>$b^2-4ac$根据一般式$ax^2+bx+c=0$配方得来：<br>$b^2-4ac$的具体推导过程：<br>$ax^2+bx+c=0(a≠0)$<br>两边都除以a<br>得$x^2+b/aX+c/a=0$<br>再配方<br>得$x^2+b/aX+（b/2a）^2=-c/a+（b/2a）^2$<br>$x+b/2a）^2=b²-4ac/4a^2$<br>如果$b²-4ac$大于等于0<br>$x=-b$±根号下$b^2-4ac/2a$</p></blockquote><p>函数曲线的对称轴是 $x=-\frac{b}{2a}$</p><h3 id="一元二次函数万能公式"><a href="#一元二次函数万能公式" class="headerlink" title="一元二次函数万能公式"></a>一元二次函数万能公式</h3><p>在德语里叫Mitternacht Formel<br>$x_1,_2=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$</p><h3 id="韦达定理"><a href="#韦达定理" class="headerlink" title="韦达定理"></a>韦达定理</h3><p>在跟很难求的时候用。<br>前提：$\Delta&gt;0$(要有$x_1,x_2$)<br>$x_1+x_2=-\frac{b}{a}$<br>$x_1x_2=\frac{c}{a}$</p><h3 id="二次函数不等式"><a href="#二次函数不等式" class="headerlink" title="二次函数不等式"></a>二次函数不等式</h3><p>图形判断，看开口在哪。<br>$a$的±决定着开口朝向+朝上-朝下。</p><p>以上第一课相关<a class="link"   href="https://zhongkao.koolearn.com/20150417/828274.html" >练习题和答案<i class="fas fa-external-link-alt"></i></a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;数学-从入门到精通&quot;&gt;&lt;a href=&quot;#数学-从入门到精通&quot; class=&quot;headerlink&quot; title=&quot;数学 从入门到精通&quot;&gt;&lt;/a&gt;数学 从入门到精通&lt;/h2&gt;&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; </summary>
+      
+    
+    
+    
+    <category term="技术 skill" scheme="https://naichaduck.github.io/categories/%E6%8A%80%E6%9C%AF-skill/"/>
+    
+    
+    <category term="记录 log" scheme="https://naichaduck.github.io/tags/%E8%AE%B0%E5%BD%95-log/"/>
+    
+    <category term="学习 study" scheme="https://naichaduck.github.io/tags/%E5%AD%A6%E4%B9%A0-study/"/>
+    
+    <category term="二次函数" scheme="https://naichaduck.github.io/tags/%E4%BA%8C%E6%AC%A1%E5%87%BD%E6%95%B0/"/>
+    
+    <category term="十字相乘法" scheme="https://naichaduck.github.io/tags/%E5%8D%81%E5%AD%97%E7%9B%B8%E4%B9%98%E6%B3%95/"/>
+    
+    <category term="韦达定理" scheme="https://naichaduck.github.io/tags/%E9%9F%A6%E8%BE%BE%E5%AE%9A%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>极简生活应用</title>
@@ -46,11 +78,11 @@
   </entry>
   
   <entry>
-    <title></title>
-    <link href="https://naichaduck.github.io/post/0.html"/>
-    <id>https://naichaduck.github.io/post/0.html</id>
-    <published>2022-05-08T11:35:57.780Z</published>
-    <updated>2022-05-08T11:36:24.175Z</updated>
+    <title>搞钱思路</title>
+    <link href="https://naichaduck.github.io/post/d3f79f2b.html"/>
+    <id>https://naichaduck.github.io/post/d3f79f2b.html</id>
+    <published>2022-06-26T16:40:47.000Z</published>
+    <updated>2022-07-31T21:17:03.302Z</updated>
     
     <content type="html"><![CDATA[<p>有一天，我拖了个家产数十亿的富二代朋友出来聊天，要跟他聊聊我的创业项目。</p><p>我喝了口咖啡。</p><p><a href="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOYaEXiag82tyWDGbzbuDQcic1KNxTibNj6wsia9PUyCl6u29sG5UlxD31BQ/0"><img                       lazyload                     src="/images/loading.svg"                     data-src="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOYaEXiag82tyWDGbzbuDQcic1KNxTibNj6wsia9PUyCl6u29sG5UlxD31BQ/0"                      alt="为什么有这么多人在朋友圈卖面膜？知道真相的我内牛满面。"                ></a></p><p>「为什么朋友圈那么多人在卖面膜？来，我给你讲讲他们是怎么做的」</p><p>第一步，注册公司。</p><p>要想骗到钱，噢不，赚到钱，就一定要个响亮的名字，最好是xxx国际集团。可工商局不给注册这样的名字怎么办？naive，你以为我会放弃吗？跟你说了，我们是在用互联网思维做生意。</p><p>打开淘宝，你看。</p><p><a href="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOC9AiaJnPBlfcrtLHQvhfFicv0owGKw6ClqKNwMUV77OJpgAAaBfBcaiaw/0"><img                       lazyload                     src="/images/loading.svg"                     data-src="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOC9AiaJnPBlfcrtLHQvhfFicv0owGKw6ClqKNwMUV77OJpgAAaBfBcaiaw/0"                      alt="为什么有这么多人在朋友圈卖面膜？知道真相的我内牛满面。"                ></a></p><p>多么简单方便，XX国际集团这样的名字，在香港没有限制。一千多块钱的事，敲敲键盘分分钟搞定。</p><p><a href="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOAl4nTvSPMpPYkaSaxjccAjdicQWJTfOE9VrRicnoibRUQ5UuaueiaP2xwQ/0"><img                       lazyload                     src="/images/loading.svg"                     data-src="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOAl4nTvSPMpPYkaSaxjccAjdicQWJTfOE9VrRicnoibRUQ5UuaueiaP2xwQ/0"                      alt="为什么有这么多人在朋友圈卖面膜？知道真相的我内牛满面。"                ></a></p><p>第二步，生产产品。</p><p>公司注册好了，得生产产品啊。什么，你说要去建工厂，请工人，买原料，装机器？说你naive还不信，做事呢要动脑子，要有互联网思维。</p><p>我们再来打开淘宝。</p><p><a href="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOrHGrvxcKCpLNzse6NCIqzmd4HeKaBv8jelAdYKsM37qqeRXTANCiblw/0"><img                       lazyload                     src="/images/loading.svg"                     data-src="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOrHGrvxcKCpLNzse6NCIqzmd4HeKaBv8jelAdYKsM37qqeRXTANCiblw/0"                      alt="为什么有这么多人在朋友圈卖面膜？知道真相的我内牛满面。"                ></a></p><p>看到了吧，凝聚人类顶尖科技的蚕丝面膜只要一元钱一片，其实一元钱的水分已经很大了，我问过，量大的话我们能把每片成本压缩到两毛左右。朋友圈面膜卖198一盒，想想就开心，我们等着被钱砸死吧。</p><p><a href="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOQQy950a5CSjAcW1KFWn0PN3XWmeoMzMr5I9d6CSDGb0eDetD2bGhMg/0"><img                       lazyload                     src="/images/loading.svg"                     data-src="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOQQy950a5CSjAcW1KFWn0PN3XWmeoMzMr5I9d6CSDGb0eDetD2bGhMg/0"                      alt="为什么有这么多人在朋友圈卖面膜？知道真相的我内牛满面。"                ></a></p><p>第三步，包装产品。</p><p>为了把两毛钱一片的面膜卖到200块，包装当然要高大上。</p><p>来，我们又一次打开淘宝。</p><p><a href="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOgUA0qiceSIujEDGibTQSknYibSpTc8CicYwar8GKrICTDrAbXYTG5ExX1A/0"><img                       lazyload                     src="/images/loading.svg"                     data-src="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOgUA0qiceSIujEDGibTQSknYibSpTc8CicYwar8GKrICTDrAbXYTG5ExX1A/0"                      alt="为什么有这么多人在朋友圈卖面膜？知道真相的我内牛满面。"                ></a></p><p>50块的包装设计，也可以很好看。</p><p>第四步，宣传推广。</p><p>产品做出来了，没人知道可不行。找人做广告太贵怎么办？naive，我们有万能的淘宝啊。</p><p><a href="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOAddexIJW77CfKHmRZPhmjAeF6xKsllpTGqPaZKuOb56asLFu7wloicg/0"><img                       lazyload                     src="/images/loading.svg"                     data-src="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOAddexIJW77CfKHmRZPhmjAeF6xKsllpTGqPaZKuOb56asLFu7wloicg/0"                      alt="为什么有这么多人在朋友圈卖面膜？知道真相的我内牛满面。"                ></a></p><p>花个三四百块，可以把软文发十来个网站，然后就可以截图去骗少女们啦。你看，这是XX网报道我们的面膜的文章，这下相信我们是一家全球知名蕴含顶级科技的公司了吧。赶紧加入我们一起卖面膜，一起走向人生巅峰吧。</p><p><a href="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOY5vhHxTibzq3a8qfz3IUks1YYjymWIzLGY38DHfn3b2g6gYhnfIHibTw/0"><img                       lazyload                     src="/images/loading.svg"                     data-src="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOY5vhHxTibzq3a8qfz3IUks1YYjymWIzLGY38DHfn3b2g6gYhnfIHibTw/0"                      alt="为什么有这么多人在朋友圈卖面膜？知道真相的我内牛满面。"                ></a></p><p>第五步，晒。</p><p>一大群无知少女们代理了我们的产品，但相信我，她们卖不出去的，因为脑子聪明的人不会陪我们玩儿。所以我们要教她们怎么卖。</p><p>1.准备两个手机。</p><p>“我们的面膜怎么样？”“超赞的哦，用了皮肤水灵水灵的。”“那是的哈~我们的面膜是来自韩国的高科技产品呢。”“再给我来十盒。”</p><p>截图，发朋友圈。</p><p>2.使用前后效果对比。把满是青春痘的脸贴出来，再对比上花了几天PS出来的图片。看，效果就是这么好。过了不久PS功力出神入化，到时候面膜卖不出去了还能找个美工的活儿。哎呦，不错哦。</p><p>3.网上down一大堆名牌包包、手表、豪车。这妹子靠卖面膜赚了不少钱呢。</p><p><a href="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOaD60PsicIM0NgDz1IFyNTuK1PsyXNibfLtWZnjcAhKE5H8hiae2CfGZ8A/0"><img                       lazyload                     src="/images/loading.svg"                     data-src="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOaD60PsicIM0NgDz1IFyNTuK1PsyXNibfLtWZnjcAhKE5H8hiae2CfGZ8A/0"                      alt="为什么有这么多人在朋友圈卖面膜？知道真相的我内牛满面。"                ></a></p><p>第六步，终极大招。</p><p>如何让代理们更全身心的投入到我们的事业中呢？</p><p>我们可以设定这样的规则，购买一盒市场价值198元面膜的同时，用户将成为我们的代理商，我们给予凡是通过你购买的客户（假设A），属于你的一级用户，直接享有产品23%的返利；通过A购买的客户（假设B），属于你的二级用户，直接享有产品15%的返利；通过B购买的客户（假设C），属于你的三级用户，直接享有产品12%的返利。</p><p>嗯，像这样。</p><p><a href="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOCdulZVibFMe5skJxeI1JiaZWGEOz2uTRH5gHAeedBruwCGExwibW9Ajkw/0"><img                       lazyload                     src="/images/loading.svg"                     data-src="http://mmbiz.qpic.cn/mmbiz/aJDKoEQDJBasqkb0YUChdo40V3T6VibVOCdulZVibFMe5skJxeI1JiaZWGEOz2uTRH5gHAeedBruwCGExwibW9Ajkw/0"                      alt="为什么有这么多人在朋友圈卖面膜？知道真相的我内牛满面。"                ></a></p><p>「我觉得你被命运选中了，我们一起开始我们的伟大事业吧。」</p>]]></content>
     
@@ -64,6 +96,12 @@
     
     
     
+    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
+    
+    
+    <category term="转载" scheme="https://naichaduck.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="搞钱" scheme="https://naichaduck.github.io/tags/%E6%90%9E%E9%92%B1/"/>
     
   </entry>
   
@@ -117,11 +155,11 @@
     
     <category term="记录 log" scheme="https://naichaduck.github.io/tags/%E8%AE%B0%E5%BD%95-log/"/>
     
-    <category term="书籍 book" scheme="https://naichaduck.github.io/tags/%E4%B9%A6%E7%B1%8D-book/"/>
-    
     <category term="女人 Woman" scheme="https://naichaduck.github.io/tags/%E5%A5%B3%E4%BA%BA-Woman/"/>
     
     <category term="旅游 Travel" scheme="https://naichaduck.github.io/tags/%E6%97%85%E6%B8%B8-Travel/"/>
+    
+    <category term="书籍 book" scheme="https://naichaduck.github.io/tags/%E4%B9%A6%E7%B1%8D-book/"/>
     
     <category term="现代文学 modern lituratur" scheme="https://naichaduck.github.io/tags/%E7%8E%B0%E4%BB%A3%E6%96%87%E5%AD%A6-modern-lituratur/"/>
     
@@ -247,13 +285,13 @@
     
     <category term="博客 blogging" scheme="https://naichaduck.github.io/tags/%E5%8D%9A%E5%AE%A2-blogging/"/>
     
-    <category term="书籍 book" scheme="https://naichaduck.github.io/tags/%E4%B9%A6%E7%B1%8D-book/"/>
-    
-    <category term="电影 film" scheme="https://naichaduck.github.io/tags/%E7%94%B5%E5%BD%B1-film/"/>
-    
     <category term="女人 Woman" scheme="https://naichaduck.github.io/tags/%E5%A5%B3%E4%BA%BA-Woman/"/>
     
     <category term="旅游 Travel" scheme="https://naichaduck.github.io/tags/%E6%97%85%E6%B8%B8-Travel/"/>
+    
+    <category term="书籍 book" scheme="https://naichaduck.github.io/tags/%E4%B9%A6%E7%B1%8D-book/"/>
+    
+    <category term="电影 film" scheme="https://naichaduck.github.io/tags/%E7%94%B5%E5%BD%B1-film/"/>
     
     <category term="极简主义 minimalism" scheme="https://naichaduck.github.io/tags/%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89-minimalism/"/>
     
@@ -557,32 +595,6 @@
     <category term="博客 blogging" scheme="https://naichaduck.github.io/tags/%E5%8D%9A%E5%AE%A2-blogging/"/>
     
     <category term="隐私 Privacy" scheme="https://naichaduck.github.io/tags/%E9%9A%90%E7%A7%81-Privacy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>健身前和健身后要做的事情</title>
-    <link href="https://naichaduck.github.io/post/27023e57.html"/>
-    <id>https://naichaduck.github.io/post/27023e57.html</id>
-    <published>2021-03-26T23:00:03.000Z</published>
-    <updated>2021-06-10T00:06:27.592Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="健身前和健身后要做的事"><a href="#健身前和健身后要做的事" class="headerlink" title="健身前和健身后要做的事"></a>健身前和健身后要做的事</h3><p>健身前后一定要做的事就是热身和拉伸。年轻的时候可能发现不了这两个习惯的好处，但是随着年龄增大，体质下降，这两项习惯会带来巨大优势。</p><h4 id="热身运动"><a href="#热身运动" class="headerlink" title="热身运动"></a>热身运动</h4><p>如果不进行热身运动就直接开始做俯卧撑，你可能会觉得手臂用不上力，并且做不了几<br>个就已经不行了。这种情况在天气较冷的情况下更为明显，这是因为我们的肌肉处于半休眠<br>状态。改变这种状况就需要进行热身运动，让肌肉中的血液更快地流动起来。所以，在你开<br>始做俯卧撑之前，先学习一些热身技巧，这将事倍功半。<br>俯卧撑主要运动的是上半身，所以在你进行训练之前，应该做足上半身的热身。当然，<br>热身运动不必要花很长时间，通常10 分钟就足够了，如果天气比较寒冷，可能需要更多的<br>时间来进行热身。</p><p>颈部：</p><ol><li>左右拉伸颈部。将颈部向左右肩膀靠近，尽量拉伸颈部侧面和肩膀肌肉。</li><li>向前拉伸颈部。尽量用下巴去靠近胸口，拉伸颈部后面的肌肉。</li><li>左右转动颈部。</li><li>顺时针和逆时针转动颈部。使得整个颈部活动。</li></ol><p>肩膀：</p><ol><li>向上提肩。尽量用肩膀去靠近自己的耳朵。重复3到5次。</li></ol><p>躯干：</p><ol><li>左右转动。活动自己的腰部以及上身。持续1分钟。</li><li>左右拉伸。拉伸腰部和腹部肌肉。</li></ol><p>手臂：</p><ol><li>拉伸手臂。重复8次。</li><li>前后转动手臂。让肩膀关节充分活动。重复8次。</li></ol><p>  最后： 原地小跑。持续2分钟，让全身的温度升高。<br>  花10分钟充分热身，接下来就可以进行俯卧撑计划了。记住，每次开始之前都必须进行热身运动。这样能够提高训练效果，并且能够减少关节的磨损，预防肌肉受伤。</p><h4 id="拉伸运动"><a href="#拉伸运动" class="headerlink" title="拉伸运动"></a>拉伸运动</h4><p>在我们进行训练之前要做准备活动来热身，特别是天气较冷的情况下，一定要做足准备活动。当我们的血液循环加快的时候，我们的关节，肌肉会比平时的具有更好的扩展性，这样能够防止我们在运动中受伤。当我们完成一天的训练之后，也一定要进行拉伸运动，让我们的关节和肌肉都得到放松和伸展。 记住，训练之前要热身，训练之后要拉伸。很多人忽略的这一点，所以总有人在训练的时候受伤或者训练之后肌肉过分疲惫。下面来看看我们训练之后应该进行的拉伸练习。 </p><ol><li><p>颈部拉伸<br>站立，左右弯曲颈部，尽量用耳朵靠近肩膀，同时可以用手来轻轻辅助，每一边坚持15秒。 </p></li><li><p>胸部拉伸<br>双手在身后扣住，用力挺胸，坚持15秒。</p></li><li><p>肩膀拉伸<br>左右手臂交叉拉伸，坚持15秒。 </p></li><li><p>背部拉伸<br>双手交叉，手背向内，用力向外伸直，坚持15秒。</p></li><li><p>腹部拉伸<br>俯卧在垫子上，用力抬起身体，感觉腹部被牵拉，坚持30秒.</p></li><li><p>三头肌拉伸<br>三头肌是俯卧撑运动中的重要部位，需要多做一些拉伸运动，将手臂置于颈后，另一只手抓住手腕并且向内拉伸。每边15秒。</p></li></ol><p>做完这些拉伸运动，你就可以返回你的日常生活了，记住，俯卧撑是力量训练和耐力训练的结合，一定要在训练之后进行拉伸运动。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;健身前和健身后要做的事&quot;&gt;&lt;a href=&quot;#健身前和健身后要做的事&quot; class=&quot;headerlink&quot; title=&quot;健身前和健身后要做的事&quot;&gt;&lt;/a&gt;健身前和健身后要做的事&lt;/h3&gt;&lt;p&gt;健身前后一定要做的事就是热身和拉伸。年轻的时候可能发现不了这两个习惯</summary>
-      
-    
-    
-    
-    <category term="思想 thoughts" scheme="https://naichaduck.github.io/categories/%E6%80%9D%E6%83%B3-thoughts/"/>
-    
-    
-    <category term="习惯 Habit" scheme="https://naichaduck.github.io/tags/%E4%B9%A0%E6%83%AF-Habit/"/>
-    
-    <category term="健身 workout" scheme="https://naichaduck.github.io/tags/%E5%81%A5%E8%BA%AB-workout/"/>
     
   </entry>
   
